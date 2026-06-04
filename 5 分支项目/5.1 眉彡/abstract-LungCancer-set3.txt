@@ -1,0 +1,1270 @@
+1. Int J Stroke. 2024 Apr;19(4):406-413. doi: 10.1177/17474930231217670. Epub 2023 
+Dec 11.
+
+Lung cancer is associated with acute ongoing cerebral ischemia: A 
+population-based study.
+
+Naftali J(1), Barnea R(1)(2), Eliahou R(2)(3), Pardo K(1), Tolkovsky A(1), Adi 
+M(4), Hasminski V(2)(3), Saliba W(5)(6), Bloch S(6)(7), Raphaeli G(1)(2), Leader 
+A(2)(8), Auriel E(1)(2).
+
+Author information:
+(1)Department of Neurology, Rabin Medical Center, Petach Tikva, Israel.
+(2)Faculty of Medicine, Tel Aviv University, Tel-Aviv, Israel.
+(3)Department of Radiology, Rabin Medical Center, Petach Tikva, Israel.
+(4)Department of Radiology, Kaplan Medical Center, Rehovot, Israel.
+(5)Department of Community Medicine and Epidemiology, Lady Davis Carmel Medical 
+Center, Haifa, Israel.
+(6)Ruth and Bruce Rappaport Faculty of Medicine, Technion-Israel Institute of 
+Technology, Haifa, Israel.
+(7)Department of Neurology, Lady Davis Carmel Medical Center, Haifa, Israel.
+(8)Institute of Hematology, Davidoff Cancer Center, Rabin Medical Center, Petah 
+Tikva, Israel.
+
+BACKGROUND AND OBJECTIVES: Cerebral microinfarcts (CMIs) are the most common 
+type of brain ischemia; however, they are extremely rare in the general 
+population. CMIs can be detected by magnetic resonance diffusion-weighted 
+imaging (MRI-DWI) only for a very short period of approximately 2 weeks after 
+their formation and are associated with an increased stroke risk and cognitive 
+impairment. We aimed to examine CMI detection rate in patients with lung cancer 
+(LC), which is strongly associated with ischemic stroke risk relative to other 
+cancer types.
+METHODS: We used the Clalit Health Services record (representing more than 
+5 million patients) to identify adults with LC and breast, pancreatic, or colon 
+cancer (non-lung cancer, NLC) who underwent brain magnetic resonance diffusion 
+(MRI) scan within 5 years following cancer diagnosis. All brain MRI scans were 
+reviewed, and CMIs were documented, as well as cardiovascular risk factors.
+RESULTS: Our cohort contained a total of 2056 MRI scans of LC patients and 1598 
+of NLC patients. A total of 143 CMI were found in 73/2056 (3.5%) MRI scans of LC 
+group compared to a total of 29 CMI in 22/1598 (1.4%) MRI scans of NLC 
+(p < 0.01). Cancer type (e.g. LC vs NLC) was the only associated factor with CMI 
+incidence on multivariate analysis. After calculating accumulated risk, we found 
+an incidence of 2.5 CMI per year in LC patients and 0.5 in NLC.
+DISCUSSION: CMIs are common findings in cancer patients, especially in LC 
+patients and therefore might serve as a marker for occult brain ischemia, 
+cognitive decline, and cancer-related stroke (CRS) risk.
+
+DOI: 10.1177/17474930231217670
+PMID: 37978833 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting InterestsThe 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+2. Geroscience. 2026 Feb;48(1):435-449. doi: 10.1007/s11357-025-01733-3. Epub 2025 
+Jun 27.
+
+PCSK9 expression and cancer survival: a prognostic biomarker at the intersection 
+of oncology and geroscience.
+
+Ungvari Z(1)(2)(3)(4)(5), Menyhart O(6)(7)(8), Lehoczki A(9)(10)(11), Fekete 
+M(12)(13), Bianchini G(14)(15), Győrffy B(6)(7)(8)(16).
+
+Author information:
+(1)Vascular Cognitive Impairment, Neurodegeneration and Healthy Brain Aging 
+Program, Department of Neurosurgery, University of Oklahoma Health Sciences 
+Center, Oklahoma City, OK, USA.
+(2)Stephenson Cancer Center, University of Oklahoma, Oklahoma City, OK, USA.
+(3)Oklahoma Center for Geroscience and Healthy Brain Aging, University of 
+Oklahoma Health Sciences Center, Oklahoma City, OK, USA.
+(4)Department of Health Promotion Sciences, College of Public Health, University 
+of Oklahoma Health Sciences Center, Oklahoma City, OK, USA.
+(5)International Training Program in Geroscience, Doctoral College/Institute of 
+Preventive Medicine and Public Health, Semmelweis University, Budapest, Hungary.
+(6)Cancer Biomarker Research Group, Institute of Molecular Life Sciences, 
+Hungarian Research Network, Magyar Tudósok Körútja 2, 1117, Budapest, Hungary.
+(7)National Laboratory for Drug Research and Development, Magyar Tudósok 
+Körútja. 2. 1117, Budapest, Hungary.
+(8)Department of Bioinformatics, Semmelweis University, 1094, Budapest, Hungary.
+(9)Doctoral College, Health Sciences Division, Semmelweis University, Budapest, 
+Hungary. Andrea.M.Lehoczki@gmail.com.
+(10)Institute of Preventive Medicine and Public Health, Semmelweis University, 
+Budapest, Hungary. Andrea.M.Lehoczki@gmail.com.
+(11)Fodor Center for Prevention and Healthy Aging, Semmelweis University, 
+Budapest, Hungary. Andrea.M.Lehoczki@gmail.com.
+(12)Institute of Preventive Medicine and Public Health, Semmelweis University, 
+Budapest, Hungary.
+(13)Fodor Center for Prevention and Healthy Aging, Semmelweis University, 
+Budapest, Hungary.
+(14)Department of Medical Oncology, IRCCS Ospedale San Raffaele, Milan, Italy.
+(15)Vita-Salute San Raffaele University, Milan, Italy.
+(16)Department of Biophysics, Medical School, University of Pecs, Pecs, 7624, 
+Hungary.
+
+Proprotein convertase subtilisin/kexin type 9 (PCSK9) is primarily recognized 
+for its role in cholesterol metabolism; however, emerging evidence suggests it 
+plays a broader role in the regulation of cellular aging mechanisms and the 
+pathogenesis of age-related diseases. Given that cancer is an age-related 
+disease, PCSK9 has garnered attention for its potential impact on tumor 
+progression and patient survival. In this study, we conducted a comprehensive 
+analysis of PCSK9 expression across multiple tumor types, assessing its 
+prognostic significance using RNA sequencing data from The Cancer Genome Atlas 
+(TCGA) and gene expression microarray data from the Gene Expression Omnibus 
+(GEO). Cox proportional hazards regression models and Kaplan-Meier survival 
+analyses were employed to evaluate overall survival (OS) associations. Our 
+findings reveal that elevated PCSK9 expression is associated with improved OS in 
+breast and ovarian cancers, particularly in Luminal B breast cancer subtypes. 
+Conversely, high PCSK9 expression correlates with worse OS in bladder cancer, 
+renal clear cell carcinoma, melanoma, and pancreatic cancer. Notably, while 
+PCSK9 expression is significantly upregulated in melanoma and bladder tumors, it 
+is downregulated in renal clear cell carcinoma, yet relatively higher expression 
+among renal tumors still predicts poorer survival. No significant associations 
+between PCSK9 expression and OS were observed in colon, liver, gastric, lung, 
+prostate, head and neck cancers, or low-grade gliomas in the available 
+datasets.In conclusion, our study identifies PCSK9 as a prognostic biomarker 
+with distinct, tumor-specific survival implications. Its dual role-associating 
+with improved survival in some cancers while correlating with worse outcomes in 
+others-suggests that PCSK9 may influence cancer progression through 
+context-dependent mechanisms. Future research should focus on elucidating the 
+mechanistic underpinnings of these associations and exploring the diagnostic and 
+therapeutic potential of targeting PCSK9 in oncology.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s11357-025-01733-3
+PMCID: PMC12972280
+PMID: 40576911 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethical approval and consent to 
+participate: N/A Consent for publication: N/A Conflict of interest: Dr. Balazs 
+Gyorffy serves as Associate Editor for GeroScience. Dr. Zoltan Ungvari serves as 
+Editor-in-Chief for GeroScience.
+
+
+3. Cancer Med. 2025 Nov;14(21):e71383. doi: 10.1002/cam4.71383.
+
+Chemobrain and Cancer Survivorship: A Scoping Review of the Literature.
+
+Rovito MJ(1), Chauhan KM(2), Baig H(2).
+
+Author information:
+(1)Department of Health Sciences, University of Central Florida, Orlando, 
+Florida, USA.
+(2)University of Central Florida, Orlando, Florida, USA.
+
+BACKGROUND: Cancer-related cognitive impairment (CRCI), commonly known as 
+chemobrain, is characterized by deficits in memory, processing speed, and 
+executive function. While traditionally linked to chemotherapy, emerging 
+evidence suggests that hormone and radiation therapies may also contribute. 
+Despite its high prevalence, CRCI remains underrecognized in oncology research 
+and clinical practice, limiting the development of targeted interventions. 
+Estimates suggest that up to 75% of cancer patients experience cognitive 
+impairment during treatment, with approximately 35% reporting persistent 
+symptoms months or even years post-treatment. However, much of the existing 
+literature has focused on breast cancer, leaving a critical gap in understanding 
+CRCI in other cancer populations.
+AIMS: This scoping review systematically analyzed research on CRCI across 
+various malignancies, excluding breast cancer, to provide a broader perspective.
+MATERIALS & METHODS: A comprehensive literature search identified 29 studies 
+examining cognitive impairment in patients with colorectal, testicular, lung, 
+prostate, and hematological cancers.
+RESULTS: Findings suggest that the severity and duration of cognitive decline 
+vary depending on cancer type and treatment modality, with some therapies 
+inducing transient symptoms and others contributing to prolonged deficits. 
+Existing cognitive assessment tools, such as the Mini-Mental State Examination 
+(MMSE), often lack the sensitivity to detect subtle neurocognitive changes, 
+highlighting the need for more precise diagnostic measures. Methodological 
+challenges, including small sample sizes and reliance on self-reported cognitive 
+symptoms, further hinder the characterization of CRCI in non-breast cancer 
+populations.
+DISCUSSION: Given the increasing recognition of CRCI across diverse 
+malignancies, future research should prioritize longitudinal studies, advanced 
+neuroimaging techniques, and targeted interventions to mitigate cognitive 
+impairment. A more comprehensive understanding of CRCI in various cancer 
+populations is essential for refining clinical guidelines, improving cognitive 
+assessments, and enhancing survivorship care.
+CONCLUSION: Expanding research efforts beyond breast cancer will help optimize 
+supportive care strategies and improve the quality of life for individuals 
+affected by cancer-related cognitive dysfunction.
+
+© 2025 The Author(s). Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.71383
+PMCID: PMC12611312
+PMID: 41223143 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+4. J Clin Med. 2023 Feb 24;12(5):1833. doi: 10.3390/jcm12051833.
+
+Immunotherapy in Elderly Patients Affected by Non-Small Cell Lung Cancer: A 
+Narrative Review.
+
+Montrone M(1), Rosati G(2), Longo V(1), Catino A(1), Massafra R(3), Nardone 
+A(4), Pesola F(1), Montagna ES(1), Marech I(1), Pizzutilo P(1), Galetta D(1).
+
+Author information:
+(1)Medical Thoracic Oncology Unit, IRCCS Istituto Tumori "Giovanni Paolo II", 
+70124 Bari, Italy.
+(2)Medical Oncology Unit, "San Carlo" Hospital, 85100 Potenza, Italy.
+(3)Health Physics Unit, IRCCS Istituto Tumori "Giovanni Paolo II", 70124 Bari, 
+Italy.
+(4)Radiotherapy Unit, IRCCS Istituto Tumori "Giovanni Paolo II", 70124 Bari, 
+Italy.
+
+Lung cancer is the leading cause of cancer-related deaths worldwide. Non-small 
+cell lung cancer (NSCLC) accounts for approximately 80% of all lung cancers, and 
+most NSCLC is diagnosed in the advanced stage. The advent of immune check point 
+inhibitors (ICIs) changed the therapeutic scenario both in metastatic disease 
+(in first and subsequent lines) and earlier settings. Comorbidities, reduced 
+organ function, cognitive deterioration, and social impairment give reasons for 
+a greater probability of adverse events, making the treatment of elderly 
+patients challenging. The reduced toxicity of ICIs compared to standard 
+chemotherapy makes this approach attractive in this population. The 
+effectiveness of ICIs varies according to age, and patients older than 75 years 
+may benefit less than younger patients. This may be related to the so-called 
+immunosenescence, a phenomenon that refers to the reduced activity of immunity 
+with older age. Elders are often under-represented in clinical trials, even if 
+they are a large part of the patients in a clinical practice. In this review, we 
+aim to explore the biological aspects of immunosenescence and to report and 
+analyze the most relevant and recent literature findings on the role of 
+immunotherapy in elderly patients with NSCLC.
+
+DOI: 10.3390/jcm12051833
+PMCID: PMC10003062
+PMID: 36902620
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+authors affiliated to the IRCCS Istituto Tumori “Giovanni Paolo II”, Bari are 
+responsible for the views expressed in this article, which do not necessarily 
+represent the Institute.
+
+
+5. Pain Ther. 2025 Dec;14(6):1809-1831. doi: 10.1007/s40122-025-00775-x. Epub 2025 
+Oct 8.
+
+Patterns of Pain in Middle-Aged and Older Adults in China: A Latent Class 
+Analysis.
+
+Zhu C(#)(1), Xu Y(#)(2), Lin Z(1), Xu W(3), Chen Z(4).
+
+Author information:
+(1)Department of Rehabilitation Medicine, The First Affiliated Hospital of Jinan 
+University, Guangzhou, Guangdong, China.
+(2)School of Nursing, Guangdong Pharmaceutical University, Guangzhou, Guangdong, 
+China.
+(3)The First Clinical Medical College, Guangzhou University of Chinese Medicine, 
+Guangzhou, Guangdong, China.
+(4)Department of Rehabilitation Medicine, The First Affiliated Hospital of Jinan 
+University, Guangzhou, Guangdong, China. zm120tchzm@qq.com.
+(#)Contributed equally
+
+INTRODUCTION: Chronic pain is a leading global cause of disability in aging 
+populations, yet pain distribution patterns among middle-aged and older adults 
+in China remain uncharacterized. Using latent class analysis (LCA), this study 
+identified distinct pain location patterns and their associations with cognitive 
+impairment, depressive symptoms, and functional limitations.
+METHODS: A cross-sectional analysis of 9544 participants from the CHARLS 2020 
+database was conducted. LCA categorized pain patterns, and multivariate logistic 
+regression examined influencing factors and associations with cognitive 
+impairment, depressive symptoms, and activities of daily living (ADL) 
+impairment. Model fit was optimized via AIC/BIC and entropy/posterior 
+probabilities (> 0.8).
+RESULTS: Four distinct categories were identified: the broad pain group 
+(n = 935, 9.8%), the shoulder-low back pain group (n = 2426, 25.4%), the lower 
+limb pain group (n = 2568, 26.9%), and the head-neck-stomach pain group 
+(n = 3615, 37.9%). The analysis revealed significant associations between pain 
+location patterns and variables such as sex, income, and the presence of 
+multiple comorbidities, including dyslipidemia, stomach disease, cancer, asthma, 
+chronic lung disease, stroke, kidney disease, arthritis, mood disorders, 
+Parkinson's disease, and memory-related diseases. In addition, the broad pain 
+group showed stronger associations with cognitive impairment, depressive 
+symptoms, and ADL difficulties (including BADL difficulties and IADL 
+difficulties), and the lower limb pain group was associated with a significantly 
+higher likelihood of ADL impairment than the head-neck-stomach pain group.
+CONCLUSIONS: Pain patterns in Chinese adults ≥ 45 years reflect distinct 
+phenotypes with differential health risks. The broad pain group warrants 
+comprehensive intervention targeting pain, cognition, mood, and function. Lower 
+limb pain requires prioritized mobility preservation strategies. Findings 
+support phenotype-specific pain management to reduce disability burden.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s40122-025-00775-x
+PMCID: PMC12634983
+PMID: 41062909
+
+Conflict of interest statement: Declarations. Conflict of Interest: Changsen 
+Zhu, Yiyi Xu, Zhenping Lin, Weibang Xu, and Zhuoming Chen declare that they have 
+nothing to disclose. Ethical Approval: This study was performed in accordance 
+with the Helsinki Declaration of 1964 and its later amendments. The CHARLS 
+survey items were approved by the Peking University Biomedical Ethics Committee, 
+and all participants were required to sign an informed consent form. The ethics 
+approval number is IRB00001052-11015.
+
+
+6. Ann Oncol. 2006 Jan;17(1):146-50. doi: 10.1093/annonc/mdj038. Epub 2005 Oct 26.
+
+Correlation between anemia and functional/cognitive capacity in elderly lung 
+cancer patients treated with chemotherapy.
+
+Mancuso A(1), Migliorino M, De Santis S, Saponiero A, De Marinis F.
+
+Author information:
+(1)5th Pneumo-Oncology Unit, Department of Lung Diseases, S. Camillo-Forlanini 
+Hospital, Rome, Italy.
+
+Comment in
+    Ann Oncol. 2006 Sep;17(9):1468-9. doi: 10.1093/annonc/mdl076.
+
+BACKGROUND: Elderly cancer patients are often excluded from clinical trials and 
+no data are available on the impact of chemotherapy-related anemia on their 
+functional status and cognitive functions. This observational study investigates 
+the association between hemoglobin (Hb) level and comprehensive geriatric 
+assessment (CGA) variables (MMSE, ADL/IADL, GDS, CIRS and VAS).
+PATIENTS AND METHODS: We enrolled 42 consecutive lung cancer elderly patients 
+undergoing chemotherapy that were evaluated at baseline and after each CT cycle 
+at least until cycle 2. Hb association with CGA indexes was expressed using 
+Spearman's non-parametric coefficient r.
+RESULTS: Higher Hb values were significantly associated with more favourable 
+values of all indexes measuring mental and functional capacity, depression and 
+comorbidities. For all indexes except IADL, improvements from baseline were 
+significantly related with concomitant Hb increases. In 14 patients given 
+erythropoietin during the first two cycles, mean Hb increased from 9.2 to 10.8 
+g/dl, and the mean values of all CGA indexes were improved. On the contrary, in 
+18 patients not given erythropoietin, Hb varied from 13.0 to 11.2 g/dl and a 
+parallel worsening in all CGA indexes was observed.
+CONCLUSIONS: Chemotherapy-related anemia is associated with impairment of 
+functional status and cognitive functions. In elderly cancer patients anemia 
+correction or maintenance could be useful to preserve functional independency 
+and protect from mental decay. However, the study results need to be confirmed 
+on a larger series of patients within a controlled clinical trial.
+
+DOI: 10.1093/annonc/mdj038
+PMID: 16251202 [Indexed for MEDLINE]
+
+
+7. Geroscience. 2026 Feb;48(1):577-590. doi: 10.1007/s11357-025-01894-1. Epub 2025 
+Sep 27.
+
+Senescence-associated gene signatures predict survival in lung cancer: a 
+multi-cohort analysis.
+
+Ungvári Z(#)(1)(2)(3)(4)(5), Menyhart O(#)(6)(7)(8), Ocana A(9)(10), Fekete 
+M(11)(12), Lehoczki A(13)(14)(15), Győrffy B(#)(6)(7)(8)(16).
+
+Author information:
+(1)Vascular Cognitive Impairment, Neurodegeneration and Healthy Brain Aging 
+Program, Department of Neurosurgery, University of Oklahoma Health Sciences 
+Center, Oklahoma City, OK, USA.
+(2)Stephenson Cancer Center, University of Oklahoma, Oklahoma City, OK, USA.
+(3)Oklahoma Center for Geroscience and Healthy Brain Aging, University of 
+Oklahoma Health Sciences Center, Oklahoma City, OK, USA.
+(4)Department of Health Promotion Sciences, College of Public Health, University 
+of Oklahoma Health Sciences Center, Oklahoma City, OK, USA.
+(5)International Training Program in Geroscience, Doctoral College/Institute of 
+Preventive Medicine and Public Health, Semmelweis University, Budapest, Hungary.
+(6)Cancer Biomarker Research Group, Institute of Molecular Life Sciences, 
+Hungarian Research Network, Magyar Tudósok Körútja 2, 1117, Budapest, Hungary.
+(7)National Laboratory for Drug Research and Development, Magyar Tudósok 
+Körútja. 2. 1117, Budapest, Hungary.
+(8)Department of Bioinformatics, Semmelweis University, 1094, Budapest, Hungary.
+(9)Experimental Therapeutics in Cancer Unit, Instituto de Investigación 
+Sanitaria San Carlos (IdISSC), and, CIBERONC , Madrid, Spain.
+(10)INTHEOS-CEU-START Laboratory, Facultad de Medicina, Universidad CEU San 
+Pablo, 28668 Boadilla del Monte, Madrid, Spain.
+(11)Institute of Preventive Medicine and Public Health, Semmelweis University, 
+Budapest, Hungary.
+(12)Fodor Center for Prevention and Healthy Aging, Semmelweis University, 
+Budapest, Hungary.
+(13)Institute of Preventive Medicine and Public Health, Semmelweis University, 
+Budapest, Hungary. Andrea.M.Lehoczki@gmail.com.
+(14)Fodor Center for Prevention and Healthy Aging, Semmelweis University, 
+Budapest, Hungary. Andrea.M.Lehoczki@gmail.com.
+(15)Doctoral College, Health Sciences Division, Semmelweis University, Budapest, 
+Hungary. Andrea.M.Lehoczki@gmail.com.
+(16)Department of Biophysics, Medical School, University of Pecs, Pecs, 7624, 
+Hungary.
+(#)Contributed equally
+
+Lung cancer is a leading cause of cancer-related mortality worldwide and is 
+predominantly diagnosed in older adults, underscoring the need to explore 
+aging-related biological mechanisms that influence disease progression and 
+prognosis. Cellular senescence, a hallmark of aging, plays a dual role in cancer 
+by contributing to both tumor suppression and tumor promotion through its 
+influence on tumor growth, modulation of the tumor microenvironment, the 
+senescence-associated secretory phenotype (SASP), and response to therapy. In 
+this study, we evaluated the prognostic significance of senescence-related gene 
+expression in lung cancer using three independent gene signatures, including the 
+SenMayo gene set and two additional curated lists. Transcriptomic and clinical 
+data from publicly available datasets were analyzed using Cox regression, 
+Kaplan-Meier survival analysis, and multivariate modeling. All three senescence 
+signatures were significantly associated with overall survival, with the SenMayo 
+signature showing the most robust and consistent prognostic power. Notably, 
+higher expression of senescence-associated genes was associated with improved 
+survival in the overall lung cancer cohort and in lung adenocarcinoma, while a 
+more heterogeneous pattern emerged in squamous cell carcinoma. Although hazard 
+ratios varied among the gene sets, their broadly concordant associations with 
+clinical outcomes highlight the biological relevance and context dependence of 
+senescence in lung cancer. These findings suggest that senescence-associated 
+gene expression may serve as a valuable prognostic biomarker and offer 
+mechanistic insights into tumor behavior. Our results contribute to the growing 
+body of gero-oncology research and emphasize the need for tumor-specific 
+exploration of aging-related processes in cancer.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s11357-025-01894-1
+PMCID: PMC12972208
+PMID: 41014483 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: NA. Consent for publication: NA. Competing interests: Dr. Balazs 
+Gyorffy serves as Associate Editor for GeroScience. Dr. Zoltan Ungvari serves as 
+Editor-in-Chief for GeroScience.
+
+
+8. JAMA Netw Open. 2025 Sep 2;8(9):e2531038. doi: 
+10.1001/jamanetworkopen.2025.31038.
+
+Alzheimer Disease Biomarkers and Subjective Cognitive Decline Among Hispanic 
+and/or Latino Adults.
+
+Márquez F(1), Tarraf W(2), Gonzalez K(1), Valencia DF(1), Stickel AM(3), Anita 
+NZ(1), Sotres-Alvarez D(4), Levin BE(5), Yassa MA(6), Zhou H(4), Daviglus M(7), 
+Pirzada A(7), Goodman ZT(8), Thyagarajan B(9), Gallo LC(3), González HM(1)(10).
+
+Author information:
+(1)Department of Neurosciences, University of California, San Diego, La Jolla.
+(2)Institute of Gerontology and Department of Healthcare Sciences, Wayne State 
+University, Detroit, Michigan.
+(3)Department of Psychology, San Diego State University, San Diego, California.
+(4)Department of Biostatistics, University of North Carolina at Chapel Hill.
+(5)Department of Neurology, University of Miami, Miami, Florida.
+(6)Department of Neurobiology and Behavior and Center for the Neurobiology of 
+Learning and Memory, University of California, Irvine.
+(7)Institute for Minority Health Research, College of Medicine, University of 
+Illinois at Chicago.
+(8)Department of Psychology, University of Miami, Miami, Florida.
+(9)Department of Laboratory Medicine and Pathology, University of Minnesota, 
+Minneapolis.
+(10)Shiley-Marcos Alzheimer's Disease Research Center, University of California, 
+San Diego, La Jolla.
+
+IMPORTANCE: Subjective cognitive decline (SCD) may be an early indicator of 
+Alzheimer disease and related dementias (ADRD), yet its association with plasma 
+biomarkers remains unclear among middle-aged and older adults (aged 50-86 
+years).
+OBJECTIVE: To examine associations between plasma biomarkers of amyloid, tau, 
+neuroaxonal damage, and glial activation with SCD in a heterogeneous cohort of 
+Hispanic and/or Latino adults.
+DESIGN, SETTING, AND PARTICIPANTS: This cross-sectional study used 
+survey-weighted data from the Study of Latinos-Investigation of Neurocognitive 
+Aging, an ancillary study of the Hispanic Community Health Study/Study of 
+Latinos. Participants were aged 50 to 86 years and resided in 4 major US cities. 
+Data were collected from 2016 to 2018 and analyzed between December 2024 and 
+June 2025.
+EXPOSURE: Plasma biomarkers included amyloid-beta (Aβ42/40), phosphorylated 
+tau-181 (ptau-181), neurofilament light chain (NfL), and glial fibrillary acidic 
+protein (GFAP), quantified using Simoa (Quanterix HD-X) and log-transformed (ln) 
+to reduce skewness.
+MAIN OUTCOMES AND MEASURES: SCD was assessed using the short-form Everyday 
+Cognition Scale (ECog-12), evaluating global-, executive-, and memory-related 
+SCD, and a single-item cognitive concerns question. Survey-weighted linear and 
+logistic regression models tested associations between biomarkers and SCD, 
+adjusting for demographic, cardiovascular, kidney, and APOE genotype covariates.
+RESULTS: Among 5712 adults (mean [SD] age, 63.47 (8.15) years; unweighted 3663 
+[53.92%] female), higher ln(ptau-181) was associated with ECog-12 memory 
+(unstandardized β = 0.088; 95% CI, 0.005-0.170). Higher ln(NfL) levels were 
+associated with greater ECog-12 global (unstandardized β = 0.169; 95% CI, 
+0.074-0.265), executive (unstandardized β = 0.182; 95% CI, 0.087-0.277), and 
+memory (unstandardized β = 0.156; 95% CI, 0.065-0.248) domains. Higher ln(GFAP) 
+levels were associated with greater ECog-12 global (unstandardized β = 0.109; 
+95% CI, 0.019-0.198) and executive (unstandardized β = 0.121; 95% CI, 
+0.031-0.211) domains. Ln(Aβ42/40) was not associated with SCD domains. Cognitive 
+concerns significantly modified the associations between ln(NfL) and ECog-12 
+domains, with more pronounced associations among those reporting cognitive 
+concerns. No biomarkers were associated with the single-item cognitive concerns 
+score.
+CONCLUSIONS AND RELEVANCE: In this study of middle-aged and older Hispanic 
+and/or Latino adults, plasma biomarkers of p-tau181, NfL, and GFAP, but not 
+Aβ42/40, were associated with greater SCD. These findings underscore their 
+potential utility in early ADRD detection strategies.
+
+DOI: 10.1001/jamanetworkopen.2025.31038
+PMCID: PMC12413646
+PMID: 40911305 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Ms Valencia 
+reported receiving grants from University of California, San Diego during the 
+conduct of the study. Dr Stickel reported receiving grants from the National 
+Cancer Institute and grants from the National Institute on Aging outside the 
+submitted work. Dr Sotres-Alvarez reported receiving grants from the National 
+Heart, Lung, and Blood Institute (NHLBI) during the conduct of the study. Dr 
+Daviglus reported receiving grants from the National Institutes of Health (NIH) 
+during the conduct of the study. Dr Pirzada reported receiving grants from the 
+NIH during the conduct of the study. Dr Gallo reported receiving grants from the 
+NIH during the conduct of the study. No other disclosures were reported.
+
+
+9. Front Neurosci. 2019 Jul 24;13:728. doi: 10.3389/fnins.2019.00728. eCollection 
+2019.
+
+Re-thinking the Etiological Framework of Neurodegeneration.
+
+Castillo X(1)(2), Castro-Obregón S(3), Gutiérrez-Becker B(4), Gutiérrez-Ospina 
+G(5), Karalis N(6), Khalil AA(7)(8)(9), Lopez-Noguerola JS(10), Rodríguez 
+LL(11), Martínez-Martínez E(12), Perez-Cruz C(13), Pérez-Velázquez J(14)(15), 
+Piña AL(16), Rubio K(17), García HPS(18), Syeda T(13), Vanoye-Carlo A(19), 
+Villringer A(7)(8)(9), Winek K(20)(21), Zille M(22)(23)(24).
+
+Author information:
+(1)Instituto de Neurobiología, Universidad Nacional Autónoma de México, Mexico 
+City, Mexico.
+(2)Institute of Neurobiology, University of Puerto Rico, San Juan, PR, United 
+States.
+(3)Instituto de Fisiología Celular, Universidad Nacional Autónoma de México, 
+Mexico City, Mexico.
+(4)Artificial Intelligence in Medical Imaging KJP, Ludwig Maximilian University 
+of Munich, Munich, Germany.
+(5)Laboratorio de Biología de Sistemas, Departamento de Biología Celular y 
+Fisiología, Instituto de Investigaciones Biomédicas y Coordinación de 
+Psicobiología y Neurociencias, Facultad de Psicología, Universidad Nacional 
+Autónoma de México, Mexico City, Mexico.
+(6)Friedrich Miescher Institute for Biomedical Research, Basel, Switzerland.
+(7)Center for Stroke Research Berlin, Charité-Universitätsmedizin Berlin, 
+Berlin, Germany.
+(8)Berlin School of Mind and Brain, Humboldt-Universität zu Berlin, Berlin, 
+Germany.
+(9)Department of Neurology, Max Planck Institute for Human Cognitive and Brain 
+Sciences, Leipzig, Germany.
+(10)School of Health Sciences, Department of Gerontology, Autonomous University 
+of Hidalgo State, Pachuca, Mexico.
+(11)Departamento de Bioquímica, Facultad de Medicina, Universidad Nacional 
+Autónoma de México, Mexico City, Mexico.
+(12)Cell Communication & Extracellular Vesicles Laboratory, Instituto Nacional 
+de Medicina Genómica, Mexico City, Mexico.
+(13)National Polytechnic Institute, Center of Research in Advanced Studies, 
+Mexico City, Mexico.
+(14)Departamento de Matemáticas y Mecánica, Instituto de Investigaciones en 
+Matemáticas Aplicadas y Sistemas, Universidad Nacional Autónoma de México, 
+Mexico City, Mexico.
+(15)Mathematische Modellierung Biologischer Systeme, Fakultät für Mathematik, 
+Technische Universität München, Munich, Germany.
+(16)Department of Neurosurgery, Charité-Universitätsmedizin Berlin, Berlin, 
+Germany.
+(17)Lung Cancer Epigenetics, Max Planck Institute for Heart and Lung Research, 
+Bad Nauheim, Germany.
+(18)Leibniz-Forschungsinstitut für Molekulare Pharmakologie, Berlin, Germany.
+(19)Laboratorio de Neurociencias, Instituto Nacional de Pediatría, Secretaría de 
+Salud, Mexico City, Mexico.
+(20)The Shimon Peres Postdoctoral Fellow at the Edmond and Lily Safra Center for 
+Brain Sciences, The Hebrew University of Jerusalem, Jerusalem, Israel.
+(21)Department of Experimental Neurology, Charité-Universitätsmedizin Berlin, 
+Berlin, Germany.
+(22)Institute for Experimental and Clinical Pharmacology and Toxicology, 
+University of Lübeck, Lübeck, Germany.
+(23)Institute for Medical and Marine Biotechnology, University of Lübeck, 
+Lübeck, Germany.
+(24)Fraunhofer Research Institution for Marine Biotechnology and Cell 
+Technology, Lübeck, Germany.
+
+Neurodegenerative diseases are among the leading causes of disability and death 
+worldwide. The disease-related socioeconomic burden is expected to increase with 
+the steadily increasing life expectancy. In spite of decades of clinical and 
+basic research, most strategies designed to manage degenerative brain diseases 
+are palliative. This is not surprising as neurodegeneration progresses 
+"silently" for decades before symptoms are noticed. Importantly, conceptual 
+models with heuristic value used to study neurodegeneration have been 
+constructed retrospectively, based on signs and symptoms already present in 
+affected patients; a circumstance that may confound causes and consequences. 
+Hence, innovative, paradigm-shifting views of the etiology of these diseases are 
+necessary to enable their timely prevention and treatment. Here, we outline four 
+alternative views, not mutually exclusive, on different etiological paths toward 
+neurodegeneration. First, we propose neurodegeneration as being a secondary 
+outcome of a primary cardiovascular cause with vascular pathology disrupting the 
+vital homeostatic interactions between the vasculature and the brain, resulting 
+in cognitive impairment, dementia, and cerebrovascular events such as stroke. 
+Second, we suggest that the persistence of senescent cells in neuronal circuits 
+may favor, together with systemic metabolic diseases, neurodegeneration to 
+occur. Third, we argue that neurodegeneration may start in response to altered 
+body and brain trophic interactions established via the hardwire that connects 
+peripheral targets with central neuronal structures or by means of extracellular 
+vesicle (EV)-mediated communication. Lastly, we elaborate on how lifespan body 
+dysbiosis may be linked to the origin of neurodegeneration. We highlight the 
+existence of bacterial products that modulate the gut-brain axis causing 
+neuroinflammation and neuronal dysfunction. As a concluding section, we end by 
+recommending research avenues to investigate these etiological paths in the 
+future. We think that this requires an integrated, interdisciplinary conceptual 
+research approach based on the investigation of the multimodal aspects of 
+physiology and pathophysiology. It involves utilizing proper conceptual models, 
+experimental animal units, and identifying currently unused opportunities 
+derived from human data. Overall, the proposed etiological paths and 
+experimental recommendations will be important guidelines for future 
+cross-discipline research to overcome the translational roadblock and to develop 
+causative treatments for neurodegenerative diseases.
+
+DOI: 10.3389/fnins.2019.00728
+PMCID: PMC6667555
+PMID: 31396030
+
+
+10. Geroscience. 2026 Feb;48(1):1345-1356. doi: 10.1007/s11357-025-01736-0. Epub 
+2025 Jun 19.
+
+NRF2 pathway activation predicts poor prognosis in lung cancer: a cautionary 
+note on antioxidant interventions.
+
+Ungvari Z(#)(1)(2)(3)(4)(5), Menyhart O(#)(6)(7)(8), Lehoczki A(#)(9)(10)(11), 
+Fekete M(12)(13), Fazekas-Pongor V(12)(13), Ocana A(14)(15), Varga P(12)(13), 
+Győrffy B(6)(7)(8)(16).
+
+Author information:
+(1)Vascular Cognitive Impairment, Neurodegeneration and Healthy Brain Aging 
+Program, Department of Neurosurgery, University of Oklahoma Health Sciences 
+Center, Oklahoma City, OK, USA.
+(2)Stephenson Cancer Center, University of Oklahoma, Oklahoma City, OK, USA.
+(3)Oklahoma Center for Geroscience and Healthy Brain Aging, University of 
+Oklahoma Health Sciences Center, Oklahoma City, OK, USA.
+(4)Department of Health Promotion Sciences, College of Public Health, University 
+of Oklahoma Health Sciences Center, Oklahoma City, OK, USA.
+(5)International Training Program in Geroscience, Doctoral College/Institute of 
+Preventive Medicine and Public Health, Semmelweis University, Budapest, Hungary.
+(6)Cancer Biomarker Research Group, Institute of Molecular Life Sciences, 
+Hungarian Research Network, Magyar Tudósok Körútja 2, Budapest, 1117, Hungary.
+(7)National Laboratory for Drug Research and Development, Magyar Tudósok Körútja 
+2, Budapest, 1117, Hungary.
+(8)Department of Bioinformatics, Semmelweis University, Budapest, H-1094, 
+Hungary.
+(9)Doctoral College, Health Sciences Division, Semmelweis University, Budapest, 
+Hungary. Andrea.M.Lehoczki@gmail.com.
+(10)Institute of Preventive Medicine and Public Health, Semmelweis University, 
+Budapest, Hungary. Andrea.M.Lehoczki@gmail.com.
+(11)Fodor Center for Prevention and Healthy Aging, Semmelweis University, 
+Budapest, Hungary. Andrea.M.Lehoczki@gmail.com.
+(12)Institute of Preventive Medicine and Public Health, Semmelweis University, 
+Budapest, Hungary.
+(13)Fodor Center for Prevention and Healthy Aging, Semmelweis University, 
+Budapest, Hungary.
+(14)Experimental Therapeutics in Cancer Unit, Instituto de Investigación 
+Sanitaria San Carlos (IdISSC), and CIBERONC, Madrid, Spain.
+(15)INTHEOS-CEU-START Laboratory, Facultad de Medicina, Universidad CEU San 
+Pablo, 28668 Boadilla del Monte, Madrid, Spain.
+(16)Department of Biophysics, Medical School, University of Pecs, Pecs, H-7624, 
+Hungary.
+(#)Contributed equally
+
+Lung cancer is a leading cause of cancer-related mortality worldwide. As an 
+age-related disease, its pathogenesis is shaped by several molecular hallmarks 
+of aging, including impaired DNA repair and diminished stress resilience. The 
+transcription factor NRF2 (nuclear factor erythroid 2-related factor 2) is a 
+master regulator of oxidative stress defense and cellular survival. While NRF2 
+activation is protective in aging tissues, it may also be exploited by cancer 
+cells to promote tumor progression and therapy resistance. This study aims to 
+evaluate whether NRF2 pathway activation predicts clinical outcomes in lung 
+cancer, with potential implications for the use of NRF2-inducing compounds. We 
+analyzed transcriptomic and survival data from 2167 lung cancer patients using 
+the KM Plotter database. A validated 14-gene NRF2 activation signature was used 
+to stratify tumors by NRF2 pathway activity. Associations with overall survival 
+(OS), first progression (FP), and post-progression survival (PPS) were assessed 
+using Cox regression models and Kaplan-Meier analysis. High NRF2 signature 
+expression was significantly associated with poorer OS (HR = 1.59, p = 1.3E-9), 
+FP (HR = 1.61, p = 2.6E-5), and PPS (HR = 1.6, p = 0.002). The negative 
+prognostic effect was most pronounced in patients with adenocarcinoma, 
+node-negative disease, and in female patients. These findings highlight the dual 
+role of NRF2 in promoting stress resilience and enabling cancer cell survival. 
+NRF2 activation is a predictor of poor clinical outcomes in lung cancer. Given 
+the widespread use of NRF2-inducing compounds such as resveratrol and 
+sulforaphane, these findings raise important concerns about their safety in 
+individuals at risk for or living with cancer. Our results underscore the 
+importance of context-specific evaluation of NRF2-targeted interventions and 
+caution against the indiscriminate use of NRF2-activating agents in aging 
+populations, particularly in individuals at risk for lung cancer.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s11357-025-01736-0
+PMCID: PMC12972416
+PMID: 40537696 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: NA Consent for publication: NA Competing interests: Dr. Balazs 
+Gyorffy serves as Associate Editor for GeroScience. Dr. Zoltan Ungvari serves as 
+Editor-in-Chief for GeroScience.
+
+
+11. Front Immunol. 2022 Jul 28;13:955170. doi: 10.3389/fimmu.2022.955170. 
+eCollection 2022.
+
+Coexistence of anti-SOX1 and anti-GABAB receptor antibodies with paraneoplastic 
+limbic encephalitis presenting with seizures and memory impairment in small cell 
+lung cancer: A case report.
+
+Gong S(1), Han Y(1), He E(1), Liu M(1), Fu X(1), Deng F(1).
+
+Author information:
+(1)Department of Neurology, First Affiliated Hospital of Jilin University, 
+Changchun, China.
+
+PURPOSE: Paraneoplastic neurological syndromes associated with autoantibodies 
+are rare diseases that cause abnormal manifestations of the nervous system. 
+Early diagnosis of paraneoplastic neurological syndromes paves the way for 
+prompt and efficient therapy.
+CASE REPORT: we reported a 56-year-old man presenting with seizures and rapidly 
+progressive cognitive impairment diagnosed as paraneoplastic limbic encephalitis 
+(PLE) with anti-SRY-like high-mobility group box-1 (SOX-1) and 
+anti-γ-aminobutyric acid B (GABAB) receptor antibodies and finally confirmed by 
+biopsy as small cell lung cancer (SCLC). At the first admission, brain magnetic 
+resonance imaging (MRI) showed no abnormal signal in bilateral hippocampal 
+regions and no abnormal enhancement of enhanced scan. The serum anti-GABAB 
+receptor antibody was 1:100 and was diagnosed as autoimmune encephalitis (AE). 
+The computed tomography (CT) scans of the chest showed no obvious tumor signs 
+for the first time. Although positron emission tomography-computed tomography 
+(PET-CT) revealed hypermetabolism in the para mid-esophageal, the patient and 
+his family declined to undertake a biopsy. The patient improved after receiving 
+immunoglobulin, antiepileptic therapy, and intravenous methylprednisolone (IVMP) 
+pulse treatment. However, after 4 months, the symptoms reappeared. Brain MRI 
+revealed abnormal signals in the hippocampal regions. Reexamination of the 
+cerebral fluid revealed anti-GABAB receptor and anti-SOX-1 antibodies, which 
+contributed to the diagnosis of PLE. SCLC was found in a para mid-esophageal 
+pathological biopsy. Antiepileptic medications and immunoglobulin were used to 
+treat the patient, and the symptoms were under control.
+CONCLUSION: Our findings increase the awareness that patients with limbic 
+encephalitis with cognitive dysfunction and epileptic seizures should be 
+enhanced to detect latent malignancy. Our case also highlights the importance of 
+anti-SOX1 antibodies in the detection of underlying neoplasm, particularly SCLC. 
+Our findings raise awareness of the cognitive impairment seen by patients with 
+limbic encephalitis.
+
+Copyright © 2022 Gong, Han, He, Liu, Fu and Deng.
+
+DOI: 10.3389/fimmu.2022.955170
+PMCID: PMC9365934
+PMID: 35967304 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+12. J Psychosoc Oncol. 2020 Jul-Aug;38(4):389-405. doi: 
+10.1080/07347332.2020.1722981. Epub 2020 Mar 9.
+
+Comparing the efficacy of integrative body-mind-spirit intervention with 
+cognitive behavioral therapy in patient-caregiver parallel groups for lung 
+cancer patients using a randomized controlled trial.
+
+Lau BHP(1), Chow AYM(2), Ng TK(3), Fung YL(2), Lam TC(4), So TH(4), Chan JSM(2), 
+Chan CHY(2), Zhou J(2), Tam MYJ(2), Tsang MW(5), Cheng NSY(5), Lim PFM(5), Chow 
+SF(5), Chan CLW(2), Wong DFK(2).
+
+Author information:
+(1)Department of Counselling and Psychology, Hong Kong Shue Yan University, Hong 
+Kong.
+(2)Department of Social Work and Social Administration, The University of Hong 
+Kong, Hong Kong.
+(3)Wofoo Joseph Lee Consulting and Counselling Psychology Research Centre, 
+Lingnan University, Hong Kong.
+(4)Department of Clinical Oncology, The University of Hong Kong, Hong Kong.
+(5)Hong Kong Cancer Fund, Hong Kong.
+
+Purposes/objectives: This paper reports the comparative efficacies of 
+integrative body-mind-spirit intervention (I-BMS) and cognitive behavioral 
+therapy (CBT) in patient-caregiver parallel groups for Chinese patients with 
+lung cancer.Design: Randomized controlled trial (RCT).Methods: One hundred and 
+fifty-seven patient-caregiver dyads with no marked functional impairment were 
+randomized into one of the two interventions with eight weekly patient-caregiver 
+parallel groups. Assessments were conducted at baseline, within one, eight- and 
+sixteen-weeks post-intervention. Effects of treatment group across time were 
+analyzed by multilevel modeling.Findings: CBT led to greater reduction in 
+emotional vulnerability than I-BMS. I-BMS resulted in greater increase in 
+overall QoL and spiritual self-care, and more reduction in depression than CBT. 
+Patients in both interventions experienced improvement in physical, emotional 
+and spiritual, except social, domains of QoL.Conclusion: I-BMS was more 
+efficacious for diverse domains of QoL, and CBT was more effective for emotional 
+well-being, despite the relatively small between-group effect sizes.Implications 
+for psychosocial providers/policy: (1) With the expanding repertoire of 
+psychosocial interventions for families facing lung cancer, it has become 
+imperative to investigate the comparative efficacies of empirically supported 
+and culturally adapted interventions. (2) Our findings show that I-BMS was more 
+effective for diverse domains of QoL, while CBT was more efficacious with 
+emotional well-being, although both interventions led to significant 
+improvements in physical, emotional and spiritual domains of patient QoL. (3) 
+Patient-caregiver parallel groups have been shown to be effective for enhancing 
+QoL of Chinese lung cancer patients. (4) Care professionals are encouraged to 
+dispense interventions based on the idiosyncratic needs and preferences of the 
+patients to maximize the treatment effects.
+
+DOI: 10.1080/07347332.2020.1722981
+PMID: 32146876 [Indexed for MEDLINE]
+
+
+13. Cancers (Basel). 2024 Jul 4;16(13):2457. doi: 10.3390/cancers16132457.
+
+Alectinib vs. Lorlatinib in the Front-Line Setting for ALK-Rearranged 
+Non-Small-Cell Lung Cancer (NSCLC): A Deep Dive into the Main Differences across 
+ALEX and CROWN Phase 3 Trials.
+
+Attili I(1), Fuorivia V(2), Spitaleri G(1), Corvaja C(1), Trillo Aliaga P(1), 
+Del Signore E(1), Asnaghi R(2), Carnevale Schianca A(2), Passaro A(1), de 
+Marinis F(1).
+
+Author information:
+(1)Division of Thoracic Oncology, European Institute of Oncology IRCCS, 20141 
+Milan, Italy.
+(2)Division of New Drug Development, European Institute of Oncology IRCCS, 20141 
+Milan, Italy.
+
+Various next-generation ALK TKIs are available as first-line options for 
+ALK-positive NSCLC, with alectinib and lorlatinib being commonly preferred. 
+However, no direct comparison between them has been conducted, making it 
+impossible to pick a winner. We performed an analytic, 'non-comparative' 
+assessment of the two phase 3 pivotal clinical trials showing superiority of 
+alectinib (ALEX) and lorlatinib (CROWN) in comparison to crizotinib. Overall, 
+the two studies were very similar in the study design and patient 
+characteristics, with the exception of the selection and evaluation of brain 
+metastases. PFS hazard ratios numerically favored lorlatinib, both according to 
+the investigator and to BICR. Notably, the 3-year PFS rate was numerically 
+higher with lorlatinib (64%) than with alectinib (46.4%). Despite similar 
+response rates and overall intracranial response, the rate of complete 
+intracranial response was higher with lorlatinib, with a cumulative incidence 
+risk of CNS disease progression at 12 months of 9.4% with alectinib and 2.8% 
+with lorlatinib. The peculiar toxicities of lorlatinib were related to lipidic 
+profile alterations, peripheral oedema and cognitive effects, with no impact on 
+cardiovascular risk nor impairment in quality of life versus crizotinib. 
+Furthermore, the rate of permanent treatment discontinuation due to adverse 
+events was numerically higher with alectinib (26%) than with lorlatinib (7%). In 
+conclusion, despite the immature OS data for both drugs, the efficacy of 
+lorlatinib appears higher than alectinib while maintaining a manageable toxicity 
+profile.
+
+DOI: 10.3390/cancers16132457
+PMCID: PMC11240527
+PMID: 39001519
+
+Conflict of interest statement: I. Attili received consulting fees from 
+Bristol-Myers Squibb outside the submitted work. F. de Marinis received 
+honoraria or consulting fees from AstraZeneca, Boehringer Ingelheim, 
+Bristol-Myers Squibb, Merck Sharp & Dohme, Pfizer, Novartis, Takeda, Xcovery and 
+Roche outside the submitted work. A. Passaro reports personal fees, as a speaker 
+bureau or advisor, for AstraZeneca, Agilent/Dako, Boehringer Ingelheim, 
+Bristol-Myers Squibb, Eli-Lilly, Merck Sharp & Dohme, Janssen, Novartis, Pfizer 
+and Roche Genentech outside the submitted work. The authors have no other 
+relevant affiliations or financial involvement with any organization or entity 
+with a financial interest in or financial conflict with the subject matter or 
+materials discussed in the manuscript apart from those disclosed. The funders 
+had no role in the design of the study; in the collection, analyses or 
+interpretation of data; in the writing of the manuscript; or in the decision to 
+publish the results.
+
+
+14. J Thorac Oncol. 2019 Feb;14(2):163-175. doi: 10.1016/j.jtho.2018.10.158. Epub 
+2018 Nov 16.
+
+Disparities in the Diagnosis and Treatment of Lung Cancer among People with 
+Disabilities.
+
+Shin DW(1), Cho JH(2), Noh JM(3), Han H(4), Han K(5), Park SH(5), Kim SY(6), 
+Park JH(7), Park JH(8), Kawachi I(9).
+
+Author information:
+(1)Supportive Care Center, Department of Family Medicine, Samsung Medical 
+Center, Seoul, Republic of Korea; Department of Digital Health, Samsung Advanced 
+Institute of Health Sciences and Technology, Sungkyunkwan University, Seoul, 
+Republic of Korea.
+(2)Department of Thoracic Surgery, Samsung Medical Center, Seoul, Republic of 
+Korea.
+(3)Department of Radiation Oncology, Samsung Medical Center, Seoul, Republic of 
+Korea.
+(4)Division of Hemato-Oncology, Department of Internal Medicine, Chungbuk 
+National University Hospital, Cheongju, Republic of Korea.
+(5)Department of Medical Statistics, The Catholic University of Korea, Seoul, 
+Republic of Korea.
+(6)Department of Public Health and Preventive Medicine, Chungbuk National 
+University Hospital, Cheongju, Republic of Korea; College of Medicine/Graduate 
+School of Health Science Business Convergence, Chungbuk National University, 
+Cheongju, Republic of Korea.
+(7)Big Data Steering Department, National Health Insurance Service, Wonju, 
+Republic of Korea.
+(8)College of Medicine/Graduate School of Health Science Business Convergence, 
+Chungbuk National University, Cheongju, Republic of Korea; Big Data Steering 
+Department, National Health Insurance Service, Wonju, Republic of Korea. 
+Electronic address: jonghyock@gmail.com.
+(9)T. H. Chan School of Public Health, Harvard University, Boston, 
+Massachusetts.
+
+Comment in
+    J Thorac Oncol. 2019 Aug;14(8):e167-e168. doi: 10.1016/j.jtho.2019.03.026.
+
+INTRODUCTION: Potential disparities in the diagnosis, treatment, and survival of 
+patients with lung cancer with and without disabilities have rarely been 
+investigated.
+METHODS: We conducted a retrospective cohort study with a data set linking the 
+Korean National Health Service database, disability registration data, and 
+Korean Central Cancer Registry data. A total of 13,591 people with disabilities 
+in whom lung cancer had been diagnosed and 43,809 age- and sex-matched control 
+subjects in whom lung cancer had been diagnosed were included.
+RESULTS: Unknown stage was more common in people with severe disabilities (13.1% 
+versus 10.3%), especially those with a communication (14.2%) or mental/cognitive 
+disability (15.7%). People with disabilities were less likely to undergo a 
+surgical procedure (adjusted OR [aOR] = 0.82, 95% confidence interval [CI]: 
+0.77-0.86), chemotherapy (aOR = 0.80, 95% CI: 0.77-0.84), or radiotherapy (aOR = 
+0.92, 95% CI: 0.88-0.96). This higher likelihood was more evident for people 
+with severe communication impairment (aORs of 0.46 for surgery and 0.64 for 
+chemotherapy) and severe brain/mental impairment (aORs 0.39 for surgery, 0.47 
+for chemotherapy, and 0.49 for radiotherapy). Patients with disabilities had a 
+slightly higher overall mortality than did people with no disability (adjusted 
+hazard ratio = 1.08, 95% CI: 1.06-1.11), especially in the group with a severe 
+disability (a hazard ratio = 1.20, 95% CI: 1.16-1.24).
+CONCLUSIONS: Patients with lung cancer and disabilities, especially severe ones, 
+underwent less staging work-up and treatment even though their treatment 
+outcomes were only slightly worse than those of people without a disability. 
+Although some degree of disparity might be attributed to reasonable clinical 
+judgement, unequal clinical care for people with communication and brain/mental 
+disabilities suggests unjustifiable disability-related barriers that need to be 
+addressed.
+
+Copyright © 2018 International Association for the Study of Lung Cancer. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jtho.2018.10.158
+PMID: 30453082 [Indexed for MEDLINE]
+
+
+15. Crit Rev Food Sci Nutr. 2022;62(19):5322-5348. doi: 
+10.1080/10408398.2021.1884840. Epub 2021 Feb 16.
+
+Extraction, purification, bioactivity and pharmacological effects of capsaicin: 
+a review.
+
+Wang F(1), Xue Y(1), Fu L(2), Wang Y(1), He M(2), Zhao L(1)(3), Liao X(1).
+
+Author information:
+(1)College of Food Science & Nutritional Engineering, National Engineering 
+Research Center for Fruit and Vegetable Processing, Key Laboratory of Fruit and 
+Vegetable Processing, Ministry of Agricultural and Rural Affairs, China 
+Agricultural University, Beijing, China.
+(2)ACK Company, Urumqi, Xinjiang, China.
+(3)Xinghua Industrial Research Centre for Food Science and Human Health, China 
+Agricultural University, Xinghua, Jiangsu, China.
+
+Capsaicin (trans-8-methyl-N-vanillyl-6-nonenamide), a well-known vanilloid, 
+which is the main spicy component in chili peppers, showing several biological 
+activities and the potential applications range from food flavorings to 
+therapeutics. Traditional extraction of capsaicin by organic solvents was 
+time-consuming, some new methods such as aqueous two-phase method and ionic 
+liquid extraction method have been developed. During past few decades, an ample 
+variety of biological effects of capsaicin have been evaluated. Capsaicin can be 
+used in biofilms and antifouling coatings due to its antimicrobial activity, 
+allowing it has a promising application in food packaging, food preservation, 
+marine environment and dental therapy. Capsaicin also play a crucial role in 
+metabolic disorders, including weight loss, pressure lowing and insulin 
+reduction effects. In addition, capsaicin was identified effective on preventing 
+human cancers, such as lung cancer, stomach cancer, colon cancer and breast 
+cancer by inducing apoptosis and inhibiting cell proliferation of tumor cells. 
+Previous research also suggest the positive effects of capsaicin on pain relief 
+and cognitive impairment. Capsaicin, the agonist of transient receptor potential 
+vanilloid type 1 (TRPV1), could selectively activate TRPV1, inducing Ca2+ influx 
+and related signaling pathways. Recently, gut microbiota was also involved in 
+some diseases therapeutics, but its influence on the effects of capsaicin still 
+need to be deeply studied. In this review, different extraction and purification 
+methods of capsaicin, its biological activities and pharmacological effects were 
+systematically summarized, as well as the possible mechanisms were also deeply 
+discussed. This article will give an updated and better understanding of 
+capsaicin-related biological effects and provide theoretical basis for its 
+further research and applications in human health and manufacture development.
+
+DOI: 10.1080/10408398.2021.1884840
+PMID: 33591238 [Indexed for MEDLINE]
+
+
+16. Quant Imaging Med Surg. 2025 Sep 1;15(9):7820-7832. doi: 10.21037/qims-24-1321. 
+Epub 2025 Aug 15.
+
+Disrupted neurovascular coupling in patients with lung cancer after 
+chemotherapy.
+
+Hu L(#)(1), Ding S(#)(2), Yao J(1), Zhang Y(1), You J(1), Chen H(1), Li Q(3), 
+Chen YC(1), Yin X(1).
+
+Author information:
+(1)Department of Radiology, Nanjing First Hospital, Nanjing Medical University, 
+Nanjing, China.
+(2)Department of Radiology, The Affiliated Taizhou People's Hospital of Nanjing 
+Medical University, Taizhou School of Clinical Medicine, Nanjing Medical 
+University, Taizhou, China.
+(3)Department of Respiratory Medicine, Nanjing First Hospital, Nanjing Medical 
+University, Nanjing, China.
+(#)Contributed equally
+
+BACKGROUND: Chemotherapy-related cognitive impairments (CRCIs) are frequently 
+reported by patients with non-small cell lung cancer (NSCLC) following 
+chemotherapy treatment. Studies have revealed that cognitive impairment may be 
+linked to abnormal spontaneous neuronal activity and changes in cerebral blood 
+flow (CBF). However, the specific impact of neurovascular coupling (NVC) 
+alterations on patients who have undergone chemotherapy has not been clarified. 
+The aim of this study was to examine the variations in NVC in patients with lung 
+cancer postchemotherapy and to determine potential correlations between these 
+NVC alterations and neurocognitive dysfunction.
+METHODS: A sample of 43 patients with NSCLC was recruited, including 20 patients 
+treated with chemotherapy [CT(+)] and 23 chemotherapy-naïve [CT(-)] individuals 
+who underwent pseudocontinuous arterial spin labeling (pCASL) scans and 
+resting-state functional magnetic resonance imaging (rs-fMRI), along with 
+neurocognitive evaluations. Global and regional NVC indices were assessed 
+according to correlation coefficients and the ratios between CBF and neuronal 
+activity-derived metrics, including the amplitude of low-frequency fluctuations 
+(ALFF) and regional homogeneity (ReHo). Statistical analyses were conducted to 
+calculate the difference between groups and characterize relationships between 
+alterations in global and regional NVC and cognitive performance.
+RESULTS: In comparison to the CT(-) group, the CT(+) group exhibited 
+significantly lower coupling strength for global CBF-ALFF and CBF-ReHo 
+correlations (P<0.05). Regionally, the CT(+) group demonstrated a decreased 
+CBF:ALFF ratio in the right middle temporal gyrus (MTG) and left middle frontal 
+gyrus (MFG), as well as an increased CBF:ALFF ratio in the left thalamus and 
+left parahippocampal region. Furthermore, the CT(+) group had higher CBF:ReHo 
+ratios in the left precuneus, right central operculum, right inferior parietal 
+lobule, and right superior occipital gyrus but lower CBF:ReHo ratios in the left 
+inferior frontal gyrus and right MFG (false-discovery rate-corrected P value 
+<0.05). Notably, there was a negative correlation observed between Montreal 
+Cognitive Assessment scores and memory scores and the CBF:ALFF ratios in the 
+right MFG and left parahippocampal region.
+CONCLUSIONS: This research offers comprehensive insights into the neurological 
+foundations of CRCI. The application of multimodal neuroimaging analyses 
+combining rs-fMRI and pCASL may uncover the induction of neurovascular 
+decoupling in lung cancer patients undergoing chemotherapy.
+
+Copyright © 2025 AME Publishing Company. All rights reserved.
+
+DOI: 10.21037/qims-24-1321
+PMCID: PMC12397636
+PMID: 40893533
+
+Conflict of interest statement: Conflicts of Interest: All authors have 
+completed the ICMJE uniform disclosure form (available at 
+https://qims.amegroups.com/article/view/10.21037/qims-24-1321/coif). The authors 
+have no conflicts of interest to declare.
+
+
+17. Cancer Med. 2024 Oct;13(20):e70311. doi: 10.1002/cam4.70311.
+
+Association Between Cancer Screening Patterns and Carer Literacy in Individuals 
+With Cognitive Decline: An Observational Study.
+
+Kuroda Y(1), Goto A(2)(3), Uchida K(1), Sugimoto T(1)(4), Fujita K(1), Yokoyama 
+Y(1), Nakagawa T(5), Saito T(6), Noguchi T(6), Komatsu A(6), Arai H(7), Sakurai 
+T(1)(7)(8).
+
+Author information:
+(1)Department of Prevention and Care Science, Center for Development of Advanced 
+Medicine for Dementia, Research Institute, National Center for Geriatrics and 
+Gerontology Obu, Japan.
+(2)Department of Global Health and Population, Harvard T. H. Chan School of 
+Public Health, Boston, Massachusetts, USA.
+(3)Center for Integrated Sciences and Humanities, Fukushima Medical University, 
+Fukushima, Japan.
+(4)Department of Medicine, University of Washington, Seattle, Washington, USA.
+(5)Department of Human Sciences, Osaka University, Suita, Japan.
+(6)Department of Social Science, Center for Gerontology and Social Science, 
+Research Institute, National Center for Geriatrics and Gerontology Obu, Japan.
+(7)National Center for Geriatrics and Gerontology, Obu, Japan.
+(8)Department of Cognition and Behavior Science, Nagoya University Graduate 
+School of Medicine, Nagoya, Japan.
+
+OBJECTIVE: The incidence rates of dementia, mild cognitive impairment, and 
+cancer increase with age, posing challenges to affected individuals and their 
+families. However, there are currently no clear cancer screening guidelines for 
+individuals with cognitive impairment. This study analyzed the impact of carer 
+health literacy on screening behaviors in this population.
+METHODS: We conducted a postal follow-up survey, associated with the National 
+Center for Geriatrics and Gerontology-Life STORIES of People with Dementia, that 
+targeted primary carers to assess their reports regarding patient attendance at 
+regular cancer screenings recommended by the Japanese Ministry of Health, Labor 
+and Welfare, over the preceding 2 years. Screening rates were compared between 
+the memory clinic cohort and the national average, and the influence of carer 
+health literacy level on screening was analyzed.
+RESULTS: Among the 826 total individuals analyzed, the memory clinic cohort 
+exhibited lower breast cancer screening rates, at 11% among female patients aged 
+65-74 years versus the national average of 32%. Higher health literacy among 
+carers was significantly associated with increased screening. For female 
+patients, carers with high levels of communicative health literacy were more 
+likely to ensure that patients attended screenings for gastric (adjusted odds 
+ratio [AOR], 1.77; 95% confidence interval [CI], 1.03-3.04), colorectal (AOR, 
+1.70, 95% CI 1.08-2.70), and breast cancers (AOR, 3.08; 95% CI, 1.40-6.76). 
+Among the male patients, high communicative health literacy was associated with 
+increased lung cancer screening attendance (AOR, 1.82; 95% CI, 1.11-2.99).
+CONCLUSIONS: Our research highlights a notable gap in cancer screening 
+attendance between individuals with cognitive impairment and the general 
+population, potentially arising from the intricate nature of screening 
+procedures and the extensive burden on carers. More informed decisions and 
+increased screening rates can be achieved through patient-centric communication 
+strategies that accommodate the cognitive abilities of patients, ensuring the 
+comprehensibility and accessibility of health-related information.
+
+© 2024 The Author(s). Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.70311
+PMCID: PMC11497085
+PMID: 39440694 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+18. Front Neurol. 2020 May 21;11:403. doi: 10.3389/fneur.2020.00403. eCollection 
+2020.
+
+Clinical Characteristics of Anti-GABA-B Receptor Encephalitis.
+
+Zhu F(1)(2), Shan W(1)(2)(3), Lv R(1)(2), Li Z(1)(2), Wang Q(1)(2)(3).
+
+Author information:
+(1)Department of Neurology, Beijing Tiantan Hospital, Capital Medical 
+University, Beijing, China.
+(2)China National Clinical Research Center for Neurological Diseases, Beijing, 
+China.
+(3)Beijing Institute for Brain Disorders, Beijing, China.
+
+Objective: Anti-GABA-B (gamma aminobutyric acid-B) receptor encephalitis is an 
+autoimmune disease mediated by GABA-B-related antibodies. To fully understand 
+the disease, we collected clinical data from patients with GABA-B receptor 
+encephalitis and conducted an analysis to draw conclusions. Methods: All 
+patients with GABA-B receptor encephalitis from the Neurology Department of 
+Beijing Tiantan Hospital, affiliated with Capital Medical University, from 
+August 2015 to September 2019 were accepted as study subjects. The clinical data 
+of the patients were analyzed retrospectively and included the general 
+demographic characteristics, clinical manifestations, and auxiliary 
+examinations, including laboratory results, electroencephalograms (EEGs), brain 
+magnetic resonance imaging (MRI), and positron emission tomography (PET-CT) 
+results, as well as treatments. Results: From August 2015 to September 2019, 14 
+cases of anti-GABA-B receptor encephalitis were diagnosed. Among these patients, 
+middle-aged and elderly men were the main demographic, with an average age of 52 
+years; moreover, the onset of the disease was relatively sudden, and the time 
+from onset to diagnosis was ~1 month. The main clinical symptoms were frequent 
+epileptic seizures, cognitive dysfunction, and mental behavioral disorders. In 
+seven (50%) patients, the leukocyte in cerebrospinal fluid (CSF) were increased. 
+Five (36%) patients had elevated cerebrospinal fluid protein. In most patients, 
+the oligoclonal bands (83%) of CSF were positive, and 24 h IgG levels (92%) were 
+increased. Anti-Hu or anti-Yo antibodies were positive in two (14%) patients. 
+Tumor markers in 10 (71%) patients indicated that neuron-specific enolase, 
+gastrin-releasing precursor, non-small cell lung cancer-related antigen, or 
+carcinoembryonic antigen levels were increased. EEG results often indicated slow 
+waves, sharp waves, or spike waves in temporal areas. Brain MRI always showed 
+high T2 signals in the medial temporal lobe, hippocampus, and amygdala and 
+swelling in the medial temporal lobe and hippocampus. PET-CT scans almost showed 
+abnormal metabolism in the hippocampus and temporal lobe. Three (21%) patients 
+who underwent systemic PET-CT showed hypermetabolism in pulmonary parenchymal 
+nodules and enlargement of mediastinal lymph nodes. All patients underwent 
+high-dose hormone therapy or immunoglobulin immunotherapy. After treatment, the 
+symptoms of epilepsy, cognitive disorders, and mental behavioral disorders 
+improved to varying degrees. However, one patient died of lung cancer. 
+Conclusion: Anti-GABA-B receptor encephalitis mainly occurred in middle-aged and 
+elderly men, and the disease onset was relatively sudden. Before disease onset, 
+some patients experienced fever and non-specific respiratory symptoms, which 
+mainly manifested as frequent epileptic seizures, cognitive dysfunction, and 
+abnormal mental behavior. MRI and PET-CT revealed abnormal signals and local 
+metabolism, respectively, in the temporal lobe. Moreover, the disease has a 
+close relationship with lung cancer, which requires long-term follow-up 
+observation.
+
+Copyright © 2020 Zhu, Shan, Lv, Li and Wang.
+
+DOI: 10.3389/fneur.2020.00403
+PMCID: PMC7253677
+PMID: 32508739
+
+
+19. Neuroimage Clin. 2017 Dec 28;18:86-96. doi: 10.1016/j.nicl.2017.12.032. 
+eCollection 2018.
+
+Performance monitoring in lung cancer patients pre- and post-chemotherapy using 
+fine-grained electrophysiological measures.
+
+Simó M(1), Gurtubay-Antolin A(2), Vaquero L(3), Bruna J(4), Rodríguez-Fornells 
+A(5).
+
+Author information:
+(1)Cognition and Brain Plasticity Group, Bellvitge Biomedical Research 
+Institute-IDIBELL, L'Hospitalet de Llobregat, 08907 Barcelona, Spain; 
+Neuro-Oncology Unit, Hospital Universitari de Bellvitge-ICO 
+L'Hospitalet-IDIBELL, 08907 Barcelona, Spain. Electronic address: 
+msimo@iconcologia.net.
+(2)Cognition and Brain Plasticity Group, Bellvitge Biomedical Research 
+Institute-IDIBELL, L'Hospitalet de Llobregat, 08907 Barcelona, Spain.
+(3)Cognition and Brain Plasticity Group, Bellvitge Biomedical Research 
+Institute-IDIBELL, L'Hospitalet de Llobregat, 08907 Barcelona, Spain; Laboratory 
+for Motor Learning and Neural Plasticity, Concordia University, HUB 1R6 
+Montreal, QC, Canada.
+(4)Neuro-Oncology Unit, Hospital Universitari de Bellvitge-ICO 
+L'Hospitalet-IDIBELL, 08907 Barcelona, Spain.
+(5)Cognition and Brain Plasticity Group, Bellvitge Biomedical Research 
+Institute-IDIBELL, L'Hospitalet de Llobregat, 08907 Barcelona, Spain; Dept. of 
+Cognition, Development and Education Psychology, University of Barcelona, Campus 
+Bellvitge, L'Hospitalet de Llobregat, 08907 Barcelona, Spain; Catalan 
+Institution for Research and Advanced Studies, ICREA, 08010 Barcelona, Spain.
+
+No previous event-related potentials (ERPs) study has explored the error-related 
+negativity (ERN) - an ERP component indexing performance monitoring - associated 
+to cancer and chemotherapy-induced cognitive impairment in a lung cancer 
+population. The aim of this study was to examine differences in performance 
+monitoring in a small-cell lung cancer group (SCLC, C +) 1-month following 
+chemotherapy and two control groups: a non-small cell lung cancer patient group 
+(NSCLC, C -) prior to chemotherapy and a healthy control group (HC). Seventeen 
+SCLC (C +) underwent a neuropsychological assessment and an ERP study using a 
+flanker and a stop-signal paradigm. This group was compared to fifteen age-, 
+gender- and education-matched NSCLC (C -) and eighteen HC. Between 20 and 30% of 
+patients in both lung cancer groups (C + and C -) met criteria for cognitive 
+impairment. Concerning ERPs, lung cancer patients showed lower overall hit rate 
+and a severe ERN amplitude reduction compared to HC. Lung cancer patients 
+exhibited an abnormal pattern of performance monitoring thus suggesting that 
+chemotherapy and especially cancer itself, may contribute to cognitive 
+deterioration. ERN appeared as an objective laboratory tool sensitive to 
+cognitive dysfunction in cancer population.
+
+DOI: 10.1016/j.nicl.2017.12.032
+PMCID: PMC5789765
+PMID: 29387526 [Indexed for MEDLINE]
+
+
+20. Ecotoxicol Environ Saf. 2025 Oct 1;304:119091. doi: 
+10.1016/j.ecoenv.2025.119091. Epub 2025 Sep 22.
+
+Inhaled pollutants and neurological health via the lung-brain axis.
+
+Li H(1), Bian H(2), Yuan X(3), Xu Q(4).
+
+Author information:
+(1)Department of Encephalopathy, Heilongjiang Academy of Traditional Chinese 
+Medicine, Harbin 150001, PR China.
+(2)Department of Acupuncture, Harbin Xiangfang District People's Hospital, 
+Harbin 150001, PR China.
+(3)Department of Internal Medicine, Heilongjiang Academy of Traditional Chinese 
+Medicine, Harbin 150006, PR China. Electronic address: 
+yuanxingxing@hljucm.edu.cn.
+(4)Department of Rheumatology, Heilongjiang Academy of Traditional Chinese 
+Medicine, Harbin 150006, PR China. Electronic address: xuqing2025@126.com.
+
+BACKGROUND: The lung-brain axis is a communication network that links the lungs 
+and the brain. Inhaled pollutants like tobacco smoke, asbestos, and 
+nanoparticles can exploit this axis to cause neurological damage. They do this 
+by triggering systemic inflammation, oxidative stress, and disrupting the 
+blood-brain barrier (BBB), which can lead to neurocognitive decline, 
+neurodegeneration, and cancer.
+OBJECTIVE: This review compares how two major types of inhaled pollutants, 
+tobacco smoke and environmental chemicals, affect neurological health via the 
+lung-brain axis. We evaluate their shared and distinct biological mechanisms, 
+contrast their associated health outcomes such as neuropsychiatric disorders 
+versus cancers, and identify critical gaps in current research.
+CONCLUSION: Both smoking and chemical pollutants harm the brain through the 
+lung-brain axis but via different primary mechanisms. Smoking primarily disrupts 
+nicotinic acetylcholine receptor (nAChR) signaling, reinforcing addiction. In 
+contrast, environmental chemicals often rely on the physical translocation of 
+particles to cause genotoxicity and direct inflammation. Key research 
+limitations include a lack of long-term human data and an incomplete 
+understanding of the bidirectional nature of this axis. Future studies should 
+use integrated multi-omics and advanced models like organ-on-a-chip to better 
+understand these exposure dynamics. From a policy perspective, prioritizing 
+smoking cessation, stricter pollution controls, and occupational safety is 
+crucial. Future interventions must also account for genetic vulnerabilities and 
+sex-specific differences to effectively reduce the global burden of 
+pollution-related neurological diseases.
+
+Copyright © 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2025.119091
+PMID: 40987194 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

@@ -1,0 +1,68 @@
+{
+  "_comment": "双机路径契约（example，进 Git）。每台机复制为 paths-home.local.json 并填本机绝对路径（建议 gitignore）。",
+  "machines": {
+    "home": {
+      "hostname": "LAPTOP-HMRRC11",
+      "windows_user": "HMRRC",
+      "role": "计算节点：Conda、HDD Data、Git 代码执行"
+    },
+    "laptop": {
+      "hostname": "lilianna-usus",
+      "windows_user": "41516",
+      "role": "控制台：Obsidian、Cursor UI、Remote-SSH"
+    }
+  },
+  "ssh": {
+    "host_alias": "home-pc",
+    "oray_hostname": "xi41364611.wicp.vip",
+    "oray_port": 24109,
+    "remote_user": "HMRRC",
+    "identity_file": "~/.ssh/id_ed25519_home"
+  },
+  "conda": {
+    "root": "D:\\ProgramData\\Anaconda3",
+    "conda_exe": "D:\\ProgramData\\Anaconda3\\Scripts\\conda.exe",
+    "envs": {
+      "base": "D:\\ProgramData\\Anaconda3",
+      "TabPFN": "D:\\ProgramData\\Anaconda3\\envs\\TabPFN",
+      "TabPFN39": "D:\\ProgramData\\Anaconda3\\envs\\TabPFN39",
+      "openNFT": "D:\\ProgramData\\Anaconda3\\envs\\openNFT",
+      "bids": "D:\\ProgramData\\Anaconda3\\envs\\bids",
+      "BrainNote": "D:\\ProgramData\\Anaconda3\\envs\\BrainNote",
+      "HSQC_visualize": "D:\\ProgramData\\Anaconda3\\envs\\HSQC_visualize",
+      "vMRE": "D:\\ProgramData\\Anaconda3\\envs\\vMRE"
+    }
+  },
+  "vault": {
+    "home": "E:\\Obisidian\\MyObisidian",
+    "laptop": "C:\\Users\\41516\\Nutstore\\1\\MyObisidian",
+    "scripts": "0 工作流/scripts",
+    "results_in_vault": "1 主线项目/{project_slug}/results"
+  },
+  "data_hdd": {
+    "root": "D:\\data",
+    "note": "原始影像仅主力机；项目内用软链接指向此处，勿写入坚果云"
+  },
+  "projects": {
+    "1a-2a_hippocampus_tabpfn": {
+      "note": "1a-2a 海马宏观微观 · TabPFN 疗效预测",
+      "conda_env": "TabPFN",
+      "code_candidates": [
+        "E:\\HSQC",
+        "E:\\RT"
+      ],
+      "results_vault_rel": "1 主线项目/前期产出/1a-2a 海马宏观微观分割与抗抑郁疗效预测-梦月paper/results"
+    },
+    "RTNF": {
+      "note": "3c 实时 fMRI 神经反馈",
+      "conda_env": "openNFT",
+      "code_root": "E:\\recentwork-RTNF",
+      "code_root_alt": "E:\\RT\\OpenNFT",
+      "results_vault_rel": "1 主线项目/前期产出/3c 海马实时fMRI神经反馈与情绪改善-RTNF/results"
+    },
+    "vMRE": {
+      "conda_env": "vMRE",
+      "code_root": "E:\\recentwork-vMRE"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+---
+description: 导师/审稿改稿轮 — 新建批注处理清单 md 时参照 RTNF 范例与模板
+globs: "**/改稿记录/**/*.md"
+alwaysApply: false
+---
+
+# 改稿记录 · 批注处理清单
+
+## 何时新建
+
+导师或合作者返回带 comment 的 Word，需用 md 台账记录「批注 → 处理方式」时（常由 Gemini 初稿梳理，**人工核对后**入库）。
+
+## 参照（勿 reinvent 结构）
+
+1. **已填范例**：`1 主线项目/前期产出/3c 海马实时fMRI神经反馈与情绪改善-RTNF/改稿记录/202605-姚老师-R01-批注处理清单.md`
+2. **空白模板**：同目录 `_template-批注处理清单.md`
+
+## 新建步骤
+
+1. 复制模板 → `改稿记录/YYYYMMDD-<审阅者>-R<轮>-批注处理清单.md`
+2. 更新 frontmatter（`working_docx`、`nutstore_working`、日期）
+3. §1 概况表 + **§2 具体修改**（按主题分块；`[SYx]` + 批注意见 / 实际操作 / `#ToDo`）
+4. 在 `00_ResearchTrack.md` 与 `定稿/README.md` 各加一行 wikilink
+5. 核对完成后设 `source_verified: true`
+
+## 分工
+
+| 位置 | 内容 |
+|------|------|
+| 坚果云 `finalManu\…修改\` | Word 工作稿；每版留档；Word 比较 |
+| vault `改稿记录/` | 批注处理 md（给 Obsidian/Cursor `@`） |
+| vault `定稿/` | 仅 clean 投稿稿 + digest；**不放**改稿台账 |
+
+## 分析类批注
+
+过程（脚本路径、数据、输出）写在 §2 或链到 `00_ResearchTrack` 脚本索引；**先过程、结论待确认时不抢先写进 Discussion**。
+
+## 版本控制
+
+改稿 Word **不建 Git**；坚果云留档 + 命名约定见各项目 `定稿/README#改稿版本约定`。

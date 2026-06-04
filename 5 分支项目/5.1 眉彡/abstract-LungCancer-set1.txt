@@ -1,0 +1,1116 @@
+1. Neurology. 2025 Jun 24;104(12):e213651. doi: 10.1212/WNL.0000000000213651. Epub 
+2025 Jun 3.
+
+Cancer-Related Cognitive Impairment in Patients With Lung Cancer.
+
+Simó M(1)(2), Vaquero L(3)(4), Alemany M(1), Padrones S(5), Olivé G(2), Caravaca 
+A(1), Padró-Miquel A(6), Nadal E(7)(8), Camara E(2), Graus F(9), Bruna J(1).
+
+Author information:
+(1)Neuro-Oncology Unit, Bellvitge University Hospital - Catalan Institute of 
+Oncology (ICO), Bellvitge Biomedical Research Institute (IDIBELL); L'Hospitalet, 
+Barcelona, Spain.
+(2)Cognition and Brain Plasticity Group, IDIBELL; Department of Cognition, 
+Development and Educational Science, Campus Bellvitge, University of Barcelona, 
+L'Hospitalet, Spain.
+(3)Research Group in Digital Culture and Social Movements (Cibersomosaguas), and 
+Department of Experimental Psychology, Cognitive Processes and Speech Therapy - 
+Complutense University of Madrid, Spain.
+(4)Music and Audio Research Lab (MARL - New York University), and Center for 
+Language Music and Emotion (CLaME) - Max Planck Institute for Empirical 
+Aesthetics + New York University, NY.
+(5)Department of Respiratory Medicine, Hospital Universitari de Bellvitge, 
+L'Hospitalet, Barcelona, Spain.
+(6)Genetic Unit, Hospital Universitari de Bellvitge, L'Hospitalet del Llobregat, 
+Barcelona, Spain.
+(7)Department of Medical Oncology, Catalan Institute of Oncology (ICO), 
+L'Hospitalet, Barcelona, Spain.
+(8)Preclinical and Experimental Research in Thoracic Tumors (PReTT), Molecular 
+Mechanisms and Experimental Therapy in Oncology Program (Oncobell), Bellvitge 
+Biomedical Research Institute (IDIBELL), L'Hospitalet de Llobregat, Barcelona, 
+Spain; and.
+(9)Neuroimmunology Program, Institut d'Investigacions Biomèdiques August Pi i 
+Sunyer (IDIBAPS), Barcelona, Spain.
+
+OBJECTIVES: The aim of this study was to identify biomarkers of cancer-related 
+cognitive impairment (CRCI) in patients with small-cell lung cancer (SCLC).
+METHODS: Patients with SCLC were prospectively recruited between 2019 and 2023 
+and evaluated using neuropsychological (NPS) battery; structural MRI; and 
+serologic analysis of neuronal antibodies, cytokines, brain-derived neurotrophic 
+factor (BDNF), and cognitive-related single nucleotide variants (SNVs). 
+Voxel-based morphometry and tract-based analysis assessed gray and white matter 
+integrity. One month after completing chemotherapy, patients were re-evaluated.
+RESULTS: Fifty-two patients were initially evaluated: 16 (31%) exhibited 
+cognitive impairment (CI), primarily affecting executive functioning. MRI 
+disclosed gray matter damage in precuneus and fusiform-parahippocampal regions, 
+linked to visuospatial abilities and memory, and white matter damage in cingulum 
+and corpus callosum. After chemotherapy, 31 patients were re-evaluated: 10 (32%) 
+exhibited CI, of whom 7 (23%) had persistent CI and 3 (10%) developed de novo CI 
+(chemobrain). The chemobrain group had higher smoking exposure (60 vs 44 
+pack-years, p = 0.05) while the persistent CI group had more advanced disease at 
+diagnosis (80% vs 20%, p = 0.004), compared to the never CI group (15/31, 48%).
+DISCUSSION: CRCI affected one-third of our patients with SCLC at diagnosis while 
+chemobrain was uncommon and primarily associated with tobacco use. These 
+findings underscore the role of early biomarkers in predicting CRCI and its 
+persistence in patients with SCLC.
+
+DOI: 10.1212/WNL.0000000000213651
+PMID: 40460355 [Indexed for MEDLINE]
+
+
+2. Eur J Oncol Nurs. 2024 Aug;71:102657. doi: 10.1016/j.ejon.2024.102657. Epub 2024 
+Jul 1.
+
+Factors associated with cancer-related cognitive impairment in patients with 
+lung cancer: A systematic review.
+
+Hou T(1), Peng W(2), Ho MH(3), Takemura N(4), Lin CC(5).
+
+Author information:
+(1)School of Nursing, Li Ka Shing Faculty of Medicine, The University of Hong 
+Kong, Pok Fu Lam, Hong Kong Special Administrative Region of China. Electronic 
+address: tianxueh@163.com.
+(2)The de Tornyay Center for Healthy Aging, School of Nursing, University of 
+Washington-Seattle, Washington, United States. Electronic address: 
+wtpeng31@uw.edu.
+(3)School of Nursing, Li Ka Shing Faculty of Medicine, The University of Hong 
+Kong, Pok Fu Lam, Hong Kong Special Administrative Region of China. Electronic 
+address: mhbho@hku.hk.
+(4)School of Nursing, Li Ka Shing Faculty of Medicine, The University of Hong 
+Kong, Pok Fu Lam, Hong Kong Special Administrative Region of China. Electronic 
+address: naomit@hku.hk.
+(5)School of Nursing, Li Ka Shing Faculty of Medicine, The University of Hong 
+Kong, Pok Fu Lam, Hong Kong Special Administrative Region of China. Electronic 
+address: cclin@hku.hk.
+
+PURPOSE: Cognitive impairment is common in lung cancer patients and impacts 
+their quality of life. Little is known about the etiology of cognitive 
+impairment in lung cancer patients. However, the associated factors of cognitive 
+impairment among lung cancer patients have not been systematically reviewed. 
+This review aimed to summarize the factors related to cognitive impairment among 
+lung cancer patients.
+METHODS: PubMed, EMBASE, PsycINFO, CINAHL Plus, and Web of Science were searched 
+to retrieve articles published from data inception until January 21, 2024, 
+focusing on factors associated with cognitive impairment among lung cancer 
+patients. Critical appraisal was undertaken by two reviewers independently using 
+the Newcastle-Ottawa Scale.
+RESULTS: A total of 17 observational studies were included. The results showed 
+that 20 factors are associated with cognitive impairment, including 
+psychological factors (loneliness, fatigue, anxiety, depression, high symptom 
+burden, and baseline cognitive impairment), lifestyle and functional factors 
+(daily step counts, smoking, and activities of daily living or instrumental 
+activities of daily living impairments), medical treatment factors (cranial 
+irradiation, chemotherapy, lobar resection, postoperative delirium, and on 
+medication), and neuroimmunological factors (have neuronal autoantibodies, 
+altered Default Mode Network connectivity, dysregulation in glutamate and 
+glutamate metabolism, mitochondrial dysfunction, blood-brain barrier leakage, 
+and reduced T-lymphocytes).
+CONCLUSION: This is the first study to systematically review 20 factors 
+associated with cognitive impairment among lung cancer patients, encompassing 
+psychology, lifestyle and functional, medical treatment, and neuroimmunological 
+factors. These findings can help clinicians identify at-risk patients and 
+develop evidence-based interventions to prevent cognitive impairment among lung 
+cancer patients.
+
+Copyright © 2024 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejon.2024.102657
+PMID: 38959560 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest None declared.
+
+
+3. Support Care Cancer. 2024 Sep 17;32(10):663. doi: 10.1007/s00520-024-08873-w.
+
+Risk factors for cancer-related cognitive impairment among individuals with lung 
+cancer: a systematic review and meta-analysis.
+
+Ye L(1)(2), Xu X(1)(3), Qi W(1)(2), Chen F(1)(2), Xia G(4)(5).
+
+Author information:
+(1)Affiliated Nanjing Brain Hospital, Nanjing Medical University, Nanjing, 
+China.
+(2)Department of Respiratory Medicine, Nanjing Chest Hospital, Nanjing, China.
+(3)Department of Critical Care Medicine, Nanjing Chest Hospital, Nanjing, China.
+(4)Affiliated Nanjing Brain Hospital, Nanjing Medical University, Nanjing, 
+China. xgh4290@163.com.
+(5)Department of Nursing, Nanjing Chest Hospital, Nanjing, China. 
+xgh4290@163.com.
+
+OBJECTIVES: Cancer-related cognitive impairment (CRCI) exerts a negative impact 
+on the quality of life in lung cancer survivors. Risk factors for CRCI in lung 
+cancer patients remain unclear.This study aimed to identify risk factors for 
+CRCI in lung cancer patients.
+METHODS: A comprehensive literature search was conducted across PubMed, CINAHL, 
+Web of Science, Wanfang, VIP Database, Embase, and China National Knowledge 
+Infrastructure (CNKI) from their inception until March 10, 2024. Studies were 
+screened, data extracted, and quality assessed using the Agency for Healthcare 
+Research and Quality and Newcastle-Ottawa Scale. Meta-analysis was performed 
+using RevMan 5.4, assessing risk factors through odds ratios (OR) with 95% 
+confidence intervals (CIs).
+RESULTS: The analysis was comprised of nine studies, including 1,305 patients. 
+Seven studies were high quality, and two were moderate quality. Identified risk 
+factors for CRCI in lung cancer patients included advanced age (OR = 3.51, 
+95%CI: 2.14-5.74, I2 = 0.0%), cranial irradiation (OR = 2.12, 95% CI: 1.39-3.22, 
+I2 = 0.0%), anxiety (OR = 2.92, 95% CI: 1.65-5.25, I2 = 37%), and symptom 
+cluster burden (OR = 4.85, 95% CI: 2.99-7.87, I2 = 0.0%). Physical activity 
+(OR = 0.37, 95% CI; 0.23-0.58, I2 = 9.0%) was identified as a protective factor.
+CONCLUSION: Advanced age, cranial irradiation, anxiety, and symptom cluster 
+burden are significant risk factors for CRCI, while physical activity serves as 
+a protective factor. These insights provide healthcare professionals with an 
+evidence-based framework for managing CRCI in lung cancer patients.
+
+© 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00520-024-08873-w
+PMID: 39287692 [Indexed for MEDLINE]
+
+
+4. Support Care Cancer. 2024 Mar 5;32(4):209. doi: 10.1007/s00520-024-08402-9.
+
+Prevalence and assessment tools of cancer-related cognitive impairment in lung 
+cancer survivors: a systematic review and proportional meta-analysis.
+
+Ho MH(1), So TW(2), Fan CL(3), Chung YT(4), Lin CC(5).
+
+Author information:
+(1)School of Nursing, LKS Faculty of Medicine, The University of Hong Kong, 5/F, 
+3 Sassoon Road, Academic Building, Pokfulam, Hong Kong SAR.
+(2)Faculty of Medicine, The Chinese University of Hong Kong, Shatin, Hong Kong 
+SAR.
+(3)School of Life Science, Faculty of Science, The Chinese University of Hong 
+Kong, Shatin, Hong Kong SAR.
+(4)Faculty of Science, The University of Hong Kong, Pokfulam, Hong Kong SAR.
+(5)School of Nursing, LKS Faculty of Medicine, The University of Hong Kong, 5/F, 
+3 Sassoon Road, Academic Building, Pokfulam, Hong Kong SAR. cclin@hku.hk.
+
+PURPOSE: Cancer-related cognitive impairment (CRCI) is a significant risk factor 
+influencing the quality of life in lung cancer survivors. No absolute assessment 
+tool has been confirmed to assess CRCI in lung cancer survivors. This review was 
+undertaken to pool the overall prevalence of CRCI and to summarize the 
+assessment tools in assessing CRCI among lung cancer survivors.
+METHODS: PubMed, Cochrane Library, Embase, CINAHL, and CNKI were searched to 
+retrieve articles reported CRCI prevalence. Summary prevalence estimates were 
+pooled using a random effects model, along with corresponding 95% prediction 
+intervals (PIs). The Freeman-Tukey double arcsine transformation of proportions 
+was incorporated in the analysis. Additionally, subgroup analysis, 
+meta-regression, and leave-one-out analysis were performed.
+RESULTS: A total of 12 studies, involving 1934 survivors, were included in the 
+review. All of these studies were found to have a low risk of bias in terms of 
+their methodological quality. Four studies (33.3%) utilized the International 
+Cognition and Cancer Task Force (ICCTF) criteria to identify CRCI through 
+neuropsychological tests. The pooled prevalence rate of CRCI was found to be 26% 
+(95% PI, 16-37%), I2 = 95.97%. The region in which the studies were conducted 
+was identified as a significant factor contributing to this heterogeneity (p = 
+0.013). No indication of small-study effects was found (Egger's test: p = 
+0.9191).
+CONCLUSION: This review provides an overview of CRCI prevalence and assessment 
+tools in lung cancer survivors. The findings can serve as epidemiological 
+evidence to enhance clinicians' and researchers' understanding of early 
+detection and assessment.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s00520-024-08402-9
+PMCID: PMC10914843
+PMID: 38441715 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+5. J Neural Transm (Vienna). 2025 Feb;132(2):275-286. doi: 
+10.1007/s00702-024-02824-9. Epub 2024 Sep 26.
+
+Self-reported cancer-related cognitive impairment is associated with perturbed 
+neurotransmission pathways.
+
+Oppegaard KR(1), Conley YP(2), Paul S(3), Cooper B(3), Harris CS(2), Shin J(4), 
+Morse L(3), Levine JD(5), Cartwright F(6), Roy R(5), Melisko M(5), Kober KM(3), 
+Hammer MJ(4), Miaskowski C(7).
+
+Author information:
+(1)Dana-Farber Cancer Institute, University of Massachusetts, Boston, MA, USA.
+(2)School of Nursing, University of Pittsburg, Pittsburgh, PA, USA.
+(3)School of Nursing, University of California, 2 Koret Way - N631Y, San 
+Francisco, CA, 94143-0610, USA.
+(4)The Phyllis F. Cantor Center for Research in Nursing and Patient Care 
+Services, Dana-Farber Cancer Institute, Boston, MA, USA.
+(5)School of Medicine, University of California, San Francisco, CA, USA.
+(6)Mount Sinai Health System, New York, NY, USA.
+(7)School of Nursing, University of California, 2 Koret Way - N631Y, San 
+Francisco, CA, 94143-0610, USA. chris.miaskowski@ucsf.edu.
+
+BACKGROUND: Cancer-related cognitive impairment (CRCI) is reported by 45% of 
+patients with cancer. Significant gaps in knowledge remain regarding the 
+mechanisms that underlie CRCI.
+OBJECTIVES: Using a data-driven approach, the study purpose was to evaluate for 
+perturbed pathways associated with membership in the High versus the Low CRCI 
+profiles.
+METHODS: Patients completed the Attentional Function Index six times over two 
+cycles of chemotherapy. Using findings from a previous latent profile analysis, 
+subgroups of patients with high versus low levels of CRCI were evaluated (i.e., 
+High versus Low CRCI profiles). Gene expression was quantified using either 
+ribonucleic (RNA)-sequencing or microarray analyses and pathway impact analyses 
+were performed. Signaling pathways were defined using the Kyoto Encyclopedia of 
+Genes and Genomes database.
+RESULTS: A total of 508 patients had data available for analysis. Of the 261 
+patients in the RNA-sequencing sample, 48.7% were in the High class and 51.3% 
+were in the Low class. Of the 247 patients the microarray sample, 46.6% were in 
+the High class and 53.4% were in the Low class. Pathway impact analyses 
+identified seven perturbed pathways related to neurotransmission (i.e., 
+glutamatergic synapse, GABAergic synapse, dopaminergic synapse, serotonergic 
+synapse, long-term depression, cholinergic synapse, retrograde endocannabinoid 
+signaling).
+CONCLUSIONS: This study is the first to describe associations between 
+self-reported CRCI in patients receiving chemotherapy for breast, 
+gastrointestinal, gynecological, or lung cancer and seven neurotransmission 
+pathways. These findings provide new insights into potential targets for 
+mechanistically based interventions.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s00702-024-02824-9
+PMCID: PMC11785672
+PMID: 39325169 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare that they have no conflicts of interest. Ethical approval: This study 
+adhered to the principles of the Declaration of Helsinki. The study was approved 
+by the Institutional Review Board at the University of California, San Francisco 
+and at each of the study sites. Consent: All of the patients signed written 
+informed consent.
+
+
+6. J Cancer Surviv. 2025 Sep 5. doi: 10.1007/s11764-025-01890-6. Online ahead of 
+print.
+
+Cancer-related cognitive impairment: a review of National Institutes of 
+Health‑Funded grants (2017-2024).
+
+Schweppe CA(1), Altshuler RD(1), Minasian LM(1), Kadan-Lottick NS(2)(3).
+
+Author information:
+(1)Division of Cancer Prevention, National Cancer Institute, National Institutes 
+of Health, Rockville, MD, USA.
+(2)Division of Cancer Prevention, National Cancer Institute, National Institutes 
+of Health, Rockville, MD, USA. NK873@georgetown.edu.
+(3)Department of Oncology, Georgetown University Lombardi Comprehensive Cancer 
+Center, 2115 Wisconsin Avenue, Suite 300, Washington, DC, 20007, USA. 
+NK873@georgetown.edu.
+
+PURPOSE: Cancer-related cognitive impairment (CRCI) adversely affects cancer 
+survivors' academic, occupational, and psychosocial functioning. Analyzing the 
+National Institutes of Health (NIH) portfolio of funded research provides 
+insight into current efforts, trends, and gaps in CRCI research.
+METHODS: We queried the internal NIH iSearch database to identify awards focused 
+on CRCI. A total of 185 grants met inclusion criteria. Data were extracted from 
+grant specific aims and methods. Awards were characterized by research stage 
+(preclinical, clinical), cancer types, and treatments. Preclinical studies were 
+coded for model type and cognitive assessments. Clinical studies were coded for 
+trial design, inclusion criteria, cognitive outcomes, and biomarkers.
+RESULTS: Of 185 grants, 67% involved clinical, 30% preclinical, and 3% both 
+human and animal studies. Commonly studied cancer types were breast (31%), 
+central nervous system (25%), and hematological (22%). Chemotherapy (34%) and 
+radiotherapy (23%) were the most examined therapies, while biologic (8%) and 
+hormonal (6%) therapies were less frequently studied. Among 130 clinical 
+studies, 64% had observational and 38% had interventional components. The 48 
+interventional studies focused on behavioral/complementary (73%), pharmacologic 
+(25%), and/or device (10%) interventions. Most clinical studies assessed 
+cognition with objective (88%) and patient-reported outcomes (76%) measures.
+CONCLUSION: Significant gaps persist in CRCI research related to high-incidence 
+cancers such as prostate, lung, and colorectal, as well as in studies of 
+emerging treatments like immunotherapy and hormonal therapy.
+IMPLICATIONS FOR CANCER SURVIVORS: Findings highlight unmet needs and 
+opportunities to advance mechanistic and interventional research that supports 
+cognitive health and quality of life for all cancer survivors.
+
+© 2025. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11764-025-01890-6
+PMID: 40911144
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Not applicable. Consent for publication: Not applicable. Competing 
+interests: NSK-L has common stock in Astrazeneca, Biomarin, Boston Scientific, 
+Intuitive Surgical, Eli Lilly. Eco Lab, Edwards Lifescience, Proctor & Gamble, 
+Resmed, Thermo Fisher. RDA, LMM, and CAS have no conflicts of interests to 
+report.
+
+
+7. Cancer Med. 2023 Jan;12(2):1007-1024. doi: 10.1002/cam4.5021. Epub 2022 Jul 13.
+
+Breast cancer brain metastasis: Current evidence and future directions.
+
+Sun H(1), Xu J(1), Dai S(2), Ma Y(1), Sun T(1).
+
+Author information:
+(1)Department of Medical Oncology, Liaoning Cancer Hospital & Institute, Cancer 
+Hospital of China Medical University, Shenyang, China.
+(2)Department of Medical Oncology, Lung cancer center, West China Hospital, 
+Sichuan University, Chengdu, China.
+
+Breast cancer is the most common cancer in women and the second leading cause of 
+cancer-related deaths after lung cancer. Metastasis of the central nervous 
+system is a terrible event for breast cancer patients, affecting their survival 
+and quality of life. Compared with hormone receptor-positive/human epidermal 
+growth factor receptor 2-negative breast cancer patients, brain metastases are 
+more likely to affect patients with triple-negative breast cancer and human 
+epidermal growth factor receptor 2-positive breast cancer. The treatment of 
+breast cancer has improved greatly in the last two decades. However, brain 
+metastases from breast cancer remain the leading cause of morbidity and 
+mortality. Patients with breast cancer brain metastasis have been in an inferior 
+position due to the lack of clinical research in this field, and they are often 
+explicitly excluded from almost all clinical trials. The occurrence and 
+progression of brain metastases will result in severe cognitive impairment and 
+adverse physical consequences, so we must have a good understanding of the 
+molecular mechanisms of breast cancer brain metastasis. In this article, we have 
+retrieved the latest literature of molecules and pathways associated with breast 
+cancer brain metastasis, summarized common therapy strategies, and discussed the 
+prospects and clinical implications of targeting the molecules involved.
+
+© 2022 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.5021
+PMCID: PMC9883555
+PMID: 35822637 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+8. Brain Behav. 2025 Jun;15(6):e70594. doi: 10.1002/brb3.70594.
+
+Prevalence and Predictors of Chemotherapy-Related Cognitive Impairment in 
+Elderly Lung Cancer Patients: A Cross-Sectional Study.
+
+XiuCen W(1), GuiHua C(2), Qin L(3), Huan T(3), HuaPeng S(1).
+
+Author information:
+(1)School of Nursing, Chongqing Medical University, Chongqing, China.
+(2)Nursing Department, The Second Affiliated Hospital of Chongqing Medical 
+University, Chongqing, China.
+(3)Department of Respiratory Medicine, The Second Affiliated Hospital of 
+Chongqing Medical University, Chongqing, China.
+
+OBJECTIVE: To investigate the potential factors contributing to 
+chemotherapy-related cognitive impairment in elderly lung cancer patients and to 
+offer insights for the creation of an intervention program aimed at enhancing 
+the cognitive abilities of this vulnerable population.
+METHODS: Three hundred thirty-eight lung cancer patients from the departments of 
+respiratory medicine, oncology, and thoracic surgery of two tertiary-level 
+hospitals in Chongqing from July 2023 to July 2024 were selected for the study 
+via convenience sampling. A self-designed General and Disease-Related 
+Information Questionnaire, Hospital Anxiety and Depression Scale (HADS), Brief 
+Fatigue Inventory (BFI), Pittsburgh Sleep Quality Index (PSQI), Mini-Mental 
+State Examination (MMSE), and Functional Assessment of Cancer Therapy Cognitive 
+Function (Fact-Cog) were utilized for the questionnaire survey. Univariate 
+analysis of variance and binary logistic regression were employed to analyze the 
+factors influencing chemotherapy-related cognitive impairment in elderly lung 
+cancer patients.
+RESULTS: Of the 338 participants, 300 (88.8%) were male and 38 (11.2%) were 
+female, and 227 (67.2%) were between the ages of 60-69 years. The prevalence of 
+cognitive impairment measured using the FACT-Cog was 32.8%, and univariate 
+analysis revealed that homeplace, drinking, the nature of occupation before 
+retirement, tea-drinking habits, leisure activities, ADL, pet ownership, HADS, 
+BFI, PSQI, education level, hemoglobin value, and insurance were statistically 
+significant (p < 0.05). Multifactorial analysis demonstrated that education 
+level of junior high school (OR = 0.056, p < 0.05), education level of high 
+school/secondary school (OR = 0.035, p < 0.05), education level of bachelor's 
+degree/tertiary school (OR = 0.028, p < 0.05), and hemoglobin (OR = 0.981, p = 
+0.006) were protective factors for CRCI. Additionally, the nature of occupation 
+before retirement (OR = 0.387, p = 0.005) and leisure activities (OR = 0.342, p 
+= 0.001) were also found to be protective factors. Conversely, diagnosed 
+anxiety-depression (OR = 2.938, p = 0.003) and severe fatigue (OR = 3.465, p = 
+0.001) emerged as risk factors for CRCI.
+CONCLUSIONS: CRCI is the result of the intricate interplay of multiple potential 
+factors and complex mechanisms. Healthcare professionals need to develop 
+personalized intervention plans for patients based on their unique influencing 
+factors, aiming to mitigate the adverse effects of risk factors on patients' 
+cognitive functions. This approach can enhance patients' sense of self-worth and 
+satisfaction with life, ultimately improving the quality of life of elderly lung 
+cancer patients in the long term.
+
+© 2025 The Author(s). Brain and Behavior published by Wiley Periodicals LLC.
+
+DOI: 10.1002/brb3.70594
+PMCID: PMC12134492
+PMID: 40462671 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+9. Cancer Nurs. 2025 Jul 24. doi: 10.1097/NCC.0000000000001530. Online ahead of 
+print.
+
+Ecological Momentary Mobile Cognitive Screening for Cancer-Related Cognitive 
+Impairment Among Patients With Lung Cancer.
+
+Ho MH(1), Cheung DST, Tan JB, Lin CC.
+
+Author information:
+(1)Author Affiliations: School of Nursing, Li Ka Shing Faculty of Medicine, The 
+University of Hong Kong (Drs Ho, Cheung, and Lin), Pokfulam; and School of 
+Nursing and Midwifery, University of Southern Queensland (Dr Tan), Ipswich, 
+Australia.
+
+BACKGROUND: Accessible, real-time cancer-related cognitive impairment (CRCI) 
+assessments remain limited.
+OBJECTIVES: The aims of this study were to develop and validate the Single Item 
+Mobile Cognitive Screening (SIM-Cog Screening) tool to detect CRCI, establish 
+its concurrent validity and test-retest reliability, and assess feasibility 
+through momentary assessments.
+METHODS: A secondary analysis was conducted on data from 175 newly diagnosed 
+patients with non-small cell lung cancer. Participants completed in-person 
+assessments, including the Montreal Cognitive Assessment Hong Kong version 5-Min 
+Protocol and Functional Assessment of Cancer Therapy-Cognitive Function 
+(FACT-Cog) measures, and a mobile survey with SIM-Cog Screening and ratings of 
+anxiety, depression, fatigue, pain, and sleep disturbance. A subgroup of 10 
+participants completed the ecological mobile survey twice daily for 7 days. 
+Receiver operating characteristic curve analysis used the Montreal Cognitive 
+Assessment Hong Kong version 5-Min Protocol and FACT-Cog measures as reference 
+standards.
+RESULTS: The receiver operating characteristic curve analysis revealed the area 
+under the curve values of 0.928 when referenced against the FACT-Cog Perceived 
+Cognitive Impairment-18. The optimal cutoff score of 4 on the FACT-Cog Perceived 
+Cognitive Impairment-18 yielded a sensitivity of 88% and a specificity of 83.7%. 
+Single Item Mobile Cognitive Screening scores correlated with measures of 
+anxiety, depression, fatigue, and sleep disturbance. The test-retest reliability 
+coefficient was 0.724, and participants reported high satisfaction with the 
+ecological mobile survey.
+CONCLUSIONS: This brief, ecological mobile cognitive screening measure can 
+transform how CRCI is detected, monitored, and managed, enabling timely 
+interventions.
+IMPLICATIONS FOR PRACTICE: Utilizing tools like SIM-Cog Screening can facilitate 
+timely interventions tailored to individual patient needs, ultimately enhancing 
+quality of life and treatment outcomes.
+
+Copyright © 2025 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/NCC.0000000000001530
+PMID: 40711466
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+10. JMIR Res Protoc. 2024 May 31;13:e56888. doi: 10.2196/56888.
+
+The Experience of Cancer-Related Cognitive Impairment Across Common Cancers: 
+Protocol for a Qualitative Systematic Review.
+
+Ibrar M(1), Rai HK(1), Main A(1), McCartney H(1), Maguire R(1), Rodriguez 
+MAP(2).
+
+Author information:
+(1)Department of Computer and Information Sciences, University of Strathclyde, 
+Glasgow, United Kingdom.
+(2)Department of Psychology, University of Strathclyde, Glasgow, United Kingdom.
+
+BACKGROUND: Cancer-related cognitive impairment (CRCI) is commonly experienced 
+by patients with cancer during treatment, and 35% of patients experience 
+cognitive impairment after treatment completion. Impairments in memory, 
+attention, executive functioning, and information processing speed are most 
+reported and often negatively impact daily functioning and quality of life 
+(QoL). Despite the large scale of reports, this adverse side effect is 
+underinvestigated across common cancer types, and there is a lack of insight 
+into the CRCI experience.
+OBJECTIVE: This qualitative synthesis aims to explore the evidence in relation 
+to the experience of CRCI across common cancers. It also aims to understand the 
+prevalence of CRCI across various cancer types, cognitive domains, and its 
+impact on QoL and functional ability.
+METHODS: A comprehensive search of databases, including PubMed, American 
+Psychological Association PsycINFO, CINAHL, and Scopus, will be conducted. A 
+total of 2 independent reviewers will screen titles and abstracts for inclusion, 
+followed by full-text screening. A third reviewer will resolve any arising 
+conflicts in the process of data screening and inclusion. Subsequently, data 
+extraction and quality assessment using the Critical Appraisal Skills Programme 
+(CASP) tool will be conducted. The results will be analyzed using thematic 
+analysis.
+RESULTS: This review is part of a PhD program funded in January 2023. The review 
+commenced in June 2023, and data analysis is currently in progress. The 
+qualitative synthesis will explore the experiences of CRCI across common 
+cancers. The included studies are expected to report on numerous cancer types 
+such as breast cancer, prostate cancer, leukemia, and lung cancer. The included 
+study types are most likely to be interviews, focus groups, and surveys with 
+qualitative components.
+CONCLUSIONS: This protocol highlights the need for a qualitative synthesis that 
+will explore the experience of CRCI across common cancer types. It will provide 
+valuable insight into the lived experience of CRCI and the cognitive domains 
+that may be disproportionately affected. There is a growing demand for further 
+management interventions and clinically tested treatments of CRCI and the 
+qualitative exploration of patient experience is crucial for their development. 
+This qualitative synthesis will inform future developments and will contribute 
+to improving QoL after cancer.
+INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): DERR1-10.2196/56888.
+
+©Maryam Ibrar, Harleen Kaur Rai, Ashleigh Main, Haruno McCartney, Roma Maguire, 
+Mario Alfredo Parra Rodriguez. Originally published in JMIR Research Protocols 
+(https://www.researchprotocols.org), 31.05.2024.
+
+DOI: 10.2196/56888
+PMCID: PMC11179027
+PMID: 38820581 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+11. Support Care Cancer. 2025 Mar 25;33(4):320. doi: 10.1007/s00520-025-09383-z.
+
+A nomogram for predicting cancer-related cognitive impairment in lung cancer 
+patients from a nursing science precision health model perspective.
+
+Ye L(1)(2), Xu X(1)(3), Liu L(1)(4), Chen F(1)(4), Xia G(5)(6).
+
+Author information:
+(1)Affiliated Nanjing Brain Hospital, Nanjing Medical University, Guangzhou 
+Road, No.264, Nanjing, Jiangsu, 210024, China.
+(2)Department of Nursing, Nanjing Chest Hospital, Nanjing, China.
+(3)Department of Critical Care Medicine, Nanjing Chest Hospital, Nanjing, China.
+(4)Department of Respiratory Medicine, Nanjing Chest Hospital, Nanjing, China.
+(5)Affiliated Nanjing Brain Hospital, Nanjing Medical University, Guangzhou 
+Road, No.264, Nanjing, Jiangsu, 210024, China. xgh4290@163.com.
+(6)Department of Nursing, Nanjing Chest Hospital, Nanjing, China. 
+xgh4290@163.com.
+
+PURPOSE: The nursing science precision health (NSPH) model considers identifying 
+the biological basis of symptoms in order to develop precise intervention 
+strategies that ultimately improve the overall health of the symptomatic 
+individual. This study sought to construct a nomogram for predicting 
+cancer-related cognitive impairment (CRCI) in patients with lung cancer within 
+the context of the NSPH model.
+METHODS: A cohort of 252 patients with lung cancer was prospectively collected 
+and randomly divided into training and validation cohorts in a 7:3 ratio. The 
+least absolute shrinkage and selection operator (LASSO) regression method 
+optimized variable selection, followed by multivariate logistic regression to 
+develop a model, which subsequently formed the basis for the nomogram. The 
+nomogram's discrimination and calibration were evaluated using a calibration 
+plot, the Hosmer-Lemeshow test, and the receiver operating characteristic curve 
+(ROC). Decision curve analysis (DCA) quantified the net benefits of the nomogram 
+across various threshold probabilities.
+RESULTS: Five pivotal variables were incorporated into the nomogram: age 
+(≥ 65 years), treatment, education level, albumin, and platelet-to-lymphocyte 
+ratio (PLR). The area under the ROC curve (0.970 for the training cohort and 
+0.973 for the validation cohort) demonstrated the nomogram's excellent 
+discriminative ability. Calibration curves closely aligning with ideal curves 
+indicated accurate predictive capability. Moreover, the nomogram exhibited a 
+positive net benefit for predicted probability thresholds ranging from 1 to 98% 
+in DCA.
+CONCLUSION: Key risk factors, including advanced age (≥ 65 years), low education 
+level, combined chemotherapy, low albumin, and high PLR, were significantly 
+associated with higher CRCI incidence. This nomogram model has good performance 
+and can help identify CRCI with high accuracy in lung cancer patients.
+
+© 2025. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00520-025-09383-z
+PMID: 40133674 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval: This is an 
+observational study. The Nanjing Brain Hospital Research Ethics Committee (No. 
+2022-KY066-01) has confirmed that no ethical approval is required. Competing 
+interests: The authors declare no competing interests
+
+
+12. Cancer Med. 2020 Nov;9(21):7964-7978. doi: 10.1002/cam4.3428. Epub 2020 Sep 13.
+
+Sarcopenia and adverse health-related outcomes: An umbrella review of 
+meta-analyses of observational studies.
+
+Xia L(1), Zhao R(1), Wan Q(1), Wu Y(2), Zhou Y(1), Wang Y(1), Cui Y(1), Shen 
+X(1), Wu X(1).
+
+Author information:
+(1)Department of Gastrointestinal Surgery, West China Hospital, Sichuan 
+University, Chengdu, China.
+(2)Department of Oral and Maxillofacial Surgery, West China Hospital of 
+Stomatology, Sichuan University, Chengdu, China.
+
+OBJECTIVE: The purpose of this umbrella review was to assess the associations 
+between sarcopenia and adverse health-related outcomes.
+DESIGN: An umbrella review of meta-analyses of observational studies.
+SETTING AND PARTICIPANTS: Patients with sarcopenia and controls without 
+sarcopenia were included.
+MEASURES: The PubMed, Web of Science and Embase were searched for relevant 
+systematic review and meta-analysis. AMSTAR and GRADE system were used for 
+methodological quality and evidence quality assessments, respectively.
+RESULTS: Totally 54 outcomes extracted from 30 meta-analyses were analyzed. 
+Twenty out of 21 prognostic outcomes indicated that sarcopenia was significantly 
+associated with poorer prognosis of gastric cancer, hepatocellular cancer, 
+urothelial cancer, head and neck cancer, hematological malignancy, pancreatic 
+cancer, breast cancer, colorectal cancer, lung cancer, esophageal cancer, and 
+ovarian cancer. Besides, 10 out of 16 postoperative outcomes suggested that 
+sarcopenia significantly increased the risk of multiple postoperative 
+complications and prolonged the length of hospitalization of patients with 
+digestive cancer. In age-related outcomes, sarcopenia significantly increased 
+the risk of dysphagia, cognitive impairment, fractures, falls, hospitalization, 
+and all-cause mortality of elderly populations. Moreover, sarcopenia was also 
+associated with higher level of albuminuria, risk of depression, and several 
+metabolic diseases.
+CONCLUSIONS AND IMPLICATIONS: Sarcopenia significantly affected a wide range of 
+adverse health-related outcomes, particularly in patients of tumor and elderly 
+populations. Because evidences of most outcomes were rated as "low" and "very 
+low," more prospective cohort studies are required in the future.
+
+© 2020 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.3428
+PMCID: PMC7643685
+PMID: 32924316 [Indexed for MEDLINE]
+
+Conflict of interest statement: There was no conflict of interest.
+
+
+13. Nurs Res. 2023 Jul-Aug 01;72(4):272-280. doi: 10.1097/NNR.0000000000000660. Epub 
+2023 Apr 24.
+
+An Evaluation of the Multifactorial Model of Cancer-Related Cognitive 
+Impairment.
+
+Oppegaard KR, Mayo SJ, Armstrong TS, Kober KM, Anguera JA, Wright F, Levine JD, 
+Conley YP, Paul S, Cooper B, Miaskowski C.
+
+BACKGROUND: Up to 45% of patients report cancer-related cognitive impairment 
+(CRCI). A variety of characteristics are associated with the occurrence and/or 
+severity of CRCI. However, an important gap in knowledge of risk factors for 
+CRCI is the relative contribution of each factor. The multifactorial model of 
+cancer-related cognitive impairment (MMCRCI) is a conceptual model of CRCI that 
+can be used to evaluate the strength of relationships between various factors 
+and CRCI.
+OBJECTIVES: The purpose of this study was to use structural regression methods 
+to evaluate the MMCRCI using data from a large sample of outpatients receiving 
+chemotherapy ( n = 1,343). Specifically, the relationships between self-reported 
+CRCI and four MMCRCI concepts (i.e., social determinants of health, 
+patient-specific factors, treatment factors, and co-occurring symptoms) were 
+examined. The goals were to determine how well the four concepts predicted CRCI 
+and determine the relative contribution of each concept to deficits in perceived 
+cognitive function.
+METHODS: This study is part of a larger, longitudinal study that evaluated the 
+symptom experience of oncology outpatients receiving chemotherapy. Adult 
+patients were diagnosed with breast, gastrointestinal, gynecological, or lung 
+cancer; had received chemotherapy within the preceding 4 weeks; were scheduled 
+to receive at least two additional cycles of chemotherapy; were able to read, 
+write, and understand English; and gave written informed consent. Self-reported 
+CRCI was assessed using the attentional function index. Available study data 
+were used to define the latent variables.
+RESULTS: On average, patients were 57 years of age, college educated, and with a 
+mean Karnofsky Performance Status score of 80. Of the four concepts evaluated, 
+whereas co-occurring symptoms explained the largest amount of variance in CRCI, 
+treatment factors explained the smallest amount of variance. A simultaneous 
+structural regression model that estimated the joint effect of the four 
+exogenous latent variables on the CRCI latent variable was not significant.
+DISCUSSION: These findings suggest that testing individual components of the 
+MMCRCI may provide useful information on the relationships among various risk 
+factors, as well as refinements of the model. In terms of risk factors for CRCI, 
+co-occurring symptoms may be more significant than treatment factors, 
+patient-specific factors, and/or social determinants of health in patients 
+receiving chemotherapy.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/NNR.0000000000000660
+PMCID: PMC10330009
+PMID: 37104681 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+report.
+
+
+14. Nutrients. 2024 Nov 27;16(23):4090. doi: 10.3390/nu16234090.
+
+The Mediating Role of Oxidative Stress on the Association Between Oxidative 
+Balance Score and Cancer-Related Cognitive Impairment in Lung Cancer Patients: A 
+Cross-Sectional Study.
+
+Cheng X(1), Cheng L(1), He J(1), Wang Y(1), Lin X(1), Xia S(1).
+
+Author information:
+(1)Wuxi School of Medicine, Jiangnan University, Wuxi 214122, China.
+
+OBJECTIVES: To explore the association between the oxidative balance score (OBS) 
+and cancer-related cognitive impairment (CRCI) in patients with lung cancer, as 
+well as the oxidative stress biomarkers involved.
+METHODS: In this cross-sectional study, 315 lung cancer patients were recruited, 
+from whom 142 blood samples were collected to determine oxidative stress 
+biomarkers. Dietary intake was assessed using 3-day, 24 h dietary recalls. The 
+OBS was calculated by summing up pro- and antioxidant factors from a diet and 
+lifestyles assessment. CRCI was evaluated using the Montreal Cognitive 
+Assessment (MoCA) test.
+RESULTS: A total of 103 patients (32.7%) developed CRCI, with significantly 
+lower OBS and dietary OBS and lower superoxide dismutase (SOD) and glutathione 
+peroxidase (GPx) activities than non-CRCI patients (p < 0.05). For every 1-point 
+increase in OBS, the risk of CRCI was reduced by 10.6% (OR = 0.894; 95% CI 
+0.819, 0.977; p = 0.013). Both vitamin E (OR = 0.922; 95% CI 0.868, 0.980; p = 
+0.009) and dietary fiber (OR = 0.909; 95% CI 0.832, 0.992; p = 0.032) were 
+significantly inversely related to CRCI. The association between the total OBS 
+and CRCI was mediated by SOD (ACME = -0.0061; 95% CI -0.0170, -0.0004; p = 
+0.015) and GPx (ACME = -0.0069; 95% CI -0.0203, -0.0002; p = 0.032), 
+respectively.
+CONCLUSIONS: Lung cancer patients with a greater balance of antioxidant to 
+pro-oxidant diet, especially rich in dietary fiber and vitamin E, may decrease 
+their CRCI in part by affecting SOD and GPx activities.
+
+DOI: 10.3390/nu16234090
+PMCID: PMC11643973
+PMID: 39683483 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+15. J Cancer Surviv. 2025 Dec;19(6):1938-1947. doi: 10.1007/s11764-024-01607-1. Epub 
+2024 May 1.
+
+Comparative effect of Tai Chi and aerobic exercise on cognitive function in 
+advanced lung cancer survivors with perceived cognitive impairment: a three-arm 
+randomized controlled trial with mediation analysis.
+
+Takemura N(1), Cheung DST(1), Fong DYT(1), Lee AWM(2)(3), Lam TC(2)(3), Ho 
+JC(4), Kam TY(5), Chik JYK(6), Lin CC(7)(8).
+
+Author information:
+(1)School of Nursing, Li Ka Shing Faculty of Medicine, The University of Hong 
+Kong, Pokfulam, Hong Kong.
+(2)Department of Clinical Oncology, The University of Hong Kong-Shenzhen 
+Hospital, Guangdong, China.
+(3)Department of Clinical Oncology, Li Ka Shing Faculty of Medicine, The 
+University of Hong Kong, Pokfulam, Hong Kong.
+(4)Department of Medicine, Li Ka Shing Faculty of Medicine, The University of 
+Hong Kong, Pokfulam, Hong Kong.
+(5)Department of Clinical Oncology, Pamela Youde Nethersole Eastern Hospital, 
+Chai Wan, Hong Kong.
+(6)Department of Clinical Oncology, Queen Elizabeth Hospital, Kowloon, Hong 
+Kong.
+(7)School of Nursing, Li Ka Shing Faculty of Medicine, The University of Hong 
+Kong, Pokfulam, Hong Kong. chia.chin.lin@hku.hk.
+(8)Alice Ho Miu Ling Nethersole Charity Foundation Professor in Nursing, 
+Pokfulam, Hong Kong. chia.chin.lin@hku.hk.
+
+PURPOSE: Cancer-related cognitive impairment is prevalent in metastatic lung 
+cancer survivors. This study aimed to compare the effectiveness of aerobic 
+exercise and Tai Chi on perceived cognitive function and the mediating role of 
+psychoneurological symptoms with perceived cognitive impairment.
+METHODS: In a subgroup of a parent randomized clinical trial, participants who 
+reported cognitive impairment underwent a 16-week aerobic exercise (n = 49), Tai 
+Chi (n = 48), and control (n = 54) groups. Measures included perceived cognitive 
+function and psychoneurological symptoms (sleep disturbance, fatigue, anxiety, 
+and depression) assessed at baseline (T0), 16-week (T1), and 1 year (T2).
+RESULTS: Participants in Tai Chi showed significant improvements compared to 
+aerobic exercise and control groups in perceived cognitive function at T1 (AE: 
+between-group difference, 6.52; P < 0.001; CG: 8.34; P < 0.001) and T2 (AE: 
+between-group difference, 3.55; P = 0.05; CG: 5.94; P < 0.001). Sleep 
+disturbance, fatigue, anxiety, and depression at month 12 explained 24%, 31%, 
+32%, and 24% of the effect of the intervention on cognitive function at month 
+12, respectively. Only anxiety at month 4 explained 23% of the intervention 
+effect at month 12.
+CONCLUSIONS: Tai Chi demonstrated beneficial effects on cognitive function in 
+advanced lung cancer survivors with perceived cognitive impairment. Improvement 
+in cognitive function was mediated by reducing sleep disturbance, fatigue, 
+anxiety, and depression, highlighting the importance of addressing these 
+symptoms in future interventions to improve cognitive function, with anxiety 
+playing a significant role at an earlier stage.
+IMPLICATIONS FOR CANCER SURVIVORS: Tai Chi is a potentially safe complementary 
+therapeutic option for managing cognitive impairment in this vulnerable 
+population.
+TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT04119778; retrospectively 
+registered on 8 October 2019.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s11764-024-01607-1
+PMCID: PMC12546297
+PMID: 38691272 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval: All procedures 
+performed involving human participants were in accordance with the ethical 
+standards of The University of Hong Kong/Hospital Authority Hong Kong West 
+Cluster (UW 18–154), Hong Kong East Cluster (HKECREC-2019–014), and Kowloon 
+Central Cluster/Kowloon East Cluster (KC/KE-19–0039/ER-3). Consent to 
+participate: Written informed consent was obtained from all individual 
+participants prior to participation in the study. Competing interests: The 
+authors declare no competing interests.
+
+
+16. Respir Med. 2026 Mar;253:108699. doi: 10.1016/j.rmed.2026.108699. Epub 2026 Feb 
+4.
+
+Perceived cognitive impairment in patients newly diagnosed with lung cancer: a 
+cross-sectional study.
+
+Xu XZ(1), Chen X(2), Zheng R(3), Huang GH(4), Wang ZZ(5), Lv XQ(6), Huang M(7), 
+Hong JF(8).
+
+Author information:
+(1)The Second People's Hospital of Fuyang City, Fuyang, Anhui, China. Electronic 
+address: 534539635@qq.com.
+(2)School of Nursing, Anhui Medical University, Hefei, Anhui, China. Electronic 
+address: 1354637946@qq.com.
+(3)School of Nursing, Anhui Medical University, Hefei, Anhui, China. Electronic 
+address: 799491939@qq.com.
+(4)School of Nursing, Anhui Medical University, Hefei, Anhui, China. Electronic 
+address: 1845280911@qq.com.
+(5)School of Nursing, Anhui Medical University, Hefei, Anhui, China. Electronic 
+address: 2346010096@stu.ahmu.edu.cn.
+(6)School of Nursing, Anhui Medical University, Hefei, Anhui, China. Electronic 
+address: 1107815747@qq.com.
+(7)The Second People's Hospital of Fuyang City, Fuyang, Anhui, China. Electronic 
+address: hmfy333@sohu.com.
+(8)School of Nursing, Anhui Medical University, Hefei, Anhui, China. Electronic 
+address: hongjf@ahmu.edu.cn.
+
+PURPOSE: The aim of this study was to identify perceived cognitive impairment 
+and its associated factors in patients newly diagnosed with lung cancer.
+METHODS: This cross-sectional analysis utilized pretreatment data sourced from 
+an ongoing multicenter longitudinal investigation (registration: 
+ChiCTR2300076232). A total of 340 participants were enrolled between September 
+2023 and March 2024 from two public hospitals in Anhui Province, China. The 
+well-validated Chinese version of the FACT-Cog was used to collect the 
+information of perceived cognitive function. Data on sociodemographic and 
+clinical characteristics, as well as cancer-related symptoms were obtained 
+through structured questionnaires and medical records.
+RESULTS: 170 Patients newly diagnosed with lung cancer and 170 non-cancer 
+controls matched in age and gender. Patients scored significantly lower on the 
+FACT-Cog and four subscales than controls (all P < 0.05). The prevalence of 
+perceived cognitive impairment in patients was 15.3%, which was significantly 
+higher than 6.5% in controls (P = 0.009). Multivariate regression analysis 
+revealed that fatigue [(95% CI: -2.527 ∼ -1.701); P < 0.001], gender [(95% CI: 
+-15.722 ∼ -4.670); P < 0.001], age [(95% CI: -0.711 ∼ -0.082); P = 0.014] and 
+depression [(95% CI: 0.222 ∼ 1.963); P = 0.014] emerged as significant 
+predictors of perceived cognitive impairment, explaining 54.5% of the total 
+variance (P < 0.001).
+CONCLUSIONS: Patients newly diagnosed with lung cancer exhibited a significant 
+decrement in cognitive function compared to controls. Healthcare professionals 
+ought to provide prompt attention and implement early rehabilitative 
+interventions to prevent further cognitive decline subsequent to the initiation 
+of systemic treatment.
+
+Copyright © 2026 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.rmed.2026.108699
+PMID: 41651035
+
+Conflict of interest statement: Declaration of competing interest The authors 
+have no conflicts of interest to disclose.
+
+
+17. Asia Pac J Oncol Nurs. 2023 Feb 6;10(4):100200. doi: 
+10.1016/j.apjon.2023.100200. eCollection 2023 Apr.
+
+The high burden of symptoms associated with cognitive impairment in lung cancer 
+patients: A latent class analysis.
+
+Luo J(1), Liu R(1), Luo Y(1), Fang Q(1), Liu S(1), Yang Z(1), Miao J(2), Zhang 
+L(1).
+
+Author information:
+(1)School of Nursing, Southern Medical University, Guangzhou, Guangdong 
+Province, China.
+(2)Department of Medical Oncology, Nanfang Hospital, Southern Medical 
+University, Guangzhou, Guangdong Province, China.
+
+OBJECTIVE: To explore the association between the pain-fatigue-sleep 
+disturbance-depression symptom cluster (SC) and cancer-related cognitive 
+impairment (CRCI) in patients having lung cancer and to identify other factors 
+influencing CRCI.
+METHODS: A cross-sectional study was conducted to investigate 378 patients 
+having lung cancer in China from October 2021 to July 2022. The perceived 
+cognitive impairment scale and the general anxiety disorder-7 were used to 
+assess patients' cognitive impairment and anxiety, respectively. The 
+pain-fatigue-sleep disturbance-depression SC was assessed with the brief fatigue 
+inventory, the brief pain inventory, the Patient Health Questionnaire-9, and the 
+Athens Insomnia Scale. Latent class analysis by Mplus.7.4 was used to identify 
+latent classes of the SC. We adjusted for covariates in the multivariable 
+logistic regression model to examine the relationship between the 
+pain-fatigue-sleep disturbance-depression SC and CRCI.
+RESULTS: Among patients having lung cancer, two SC classes were identified: high 
+and low symptom burden groups. In the crude model, compared to the low symptom 
+burden group, the high symptom group had greater odds of developing CRCI (odds 
+ratio: 10.065, 95% confidence interval: 4.138-24.478). After adjusting for 
+covariates, in model 1, the high symptom group still had greater odds of 
+developing CRCI (odds ratio: 5.531, 95% confidence interval: 2.133-14.336). 
+Additionally, a diagnosis of over 6 months, anxiety, leisure activity, and a 
+high platelet-to-lymphocyte ratio were found to be influencing factors of CRCI 
+(all P ​< ​0.05).
+CONCLUSIONS: Our study revealed that a high symptom burden is a significant risk 
+factor for CRCI, which may provide a new perspective for managing CRCI in lung 
+patients having cancer.
+
+© 2023 The Author(s).
+
+DOI: 10.1016/j.apjon.2023.100200
+PMCID: PMC9988398
+PMID: 36890861
+
+
+18. Neurooncol Pract. 2021 Sep 7;9(1):50-58. doi: 10.1093/nop/npab056. eCollection 
+2022 Feb.
+
+Factors associated with cognitive impairment and cognitive concerns in patients 
+with metastatic non-small cell lung cancer.
+
+Eggen AC(1), Richard NM(2), Bosma I(3), Jalving M(1), Leighl NB(4), Liu G(4), 
+Mah K(2), Higazy R(5), Shultz DB(5), Reyners AKL(1), Rodin G(2), Edelstein K(2).
+
+Author information:
+(1)Department of Medical Oncology, University Medical Center Groningen, 
+University of Groningen, Groningen, the Netherlands.
+(2)Department of Supportive Care, Princess Margaret Cancer Centre, University 
+Health Network, Toronto, Ontario, Canada.
+(3)Department of Neurology, University Medical Center Groningen, University of 
+Groningen, Groningen, the Netherlands.
+(4)Department of Medical Oncology and Hematology, Princess Margaret Cancer 
+Centre, University Health Network, Toronto, Ontario, Canada.
+(5)Radiation Medicine Program, Princess Margaret Cancer Centre, University 
+Health Network, Toronto, Ontario, Canada.
+
+BACKGROUND: Knowledge regarding cognitive problems in metastatic non-small cell 
+lung cancer (mNSCLC) is limited. Such problems may include both patient-reported 
+cognitive concerns and demonstrable cognitive impairment. Greater understanding 
+of these outcomes is needed to inform rehabilitation strategies for these 
+difficulties. We aimed to identify the frequency of cognitive problems and 
+associated factors in patients with mNSCLC.
+METHODS: In this cross-sectional study, adults with mNSCLC completed validated 
+neuropsychological tests and self-report questionnaires measuring cognitive 
+concerns, neurobehavioral concerns, depression, demoralization, illness 
+intrusiveness, self-esteem, and physical symptoms. Cognitive impairment 
+(performance based) was defined according to International Cancer and Cognition 
+Task Force criteria. Clinically significant cognitive concerns were defined by a 
+score ≥1.5 SD below the normative mean on the Functional Assessment of Cancer 
+Therapy-Cognitive Function Perceived Cognitive Impairment (FACT-Cog PCI). 
+Univariate and multivariate logistic regression analyses were performed to 
+identify associated factors.
+RESULTS: Of 238 patients approached, 77 participated (median age: 62 years; 
+range: 37-82). Brain metastases were present in 41 patients (53%), and 23 (29%) 
+received cranial irradiation. Cognitive impairment and cognitive concerns were 
+present in 31 (40%) and 20 patients (26%), respectively. Cognitive impairment 
+and cognitive concerns co-occurred in 10 patients (13%), but their severity was 
+unrelated. Cognitive impairment was associated with cranial irradiation (odds 
+ratio [OR] = 2.89; P = .04), whereas cognitive concerns were associated with 
+greater illness intrusiveness (OR = 1.04; P = .03) and lower self-esteem (OR = 
+0.86; P = .03).
+CONCLUSIONS: Cognitive impairment and cognitive concerns are both common in 
+patients with mNSCLC but are not necessarily related, and their risk factors 
+differ. The association of illness intrusiveness and self-esteem with cognitive 
+concerns can inform therapeutic interventions in this population.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the 
+Society for Neuro-Oncology and the European Association of Neuro-Oncology.
+
+DOI: 10.1093/nop/npab056
+PMCID: PMC8789294
+PMID: 35087675
+
+
+19. Transl Cancer Res. 2020 Nov;9(11):6857-6866. doi: 10.21037/tcr-20-1997.
+
+Cognitive impairment is related to a reduced count of T-lymphocytes in older 
+patients diagnosed with non-small cell lung cancer (NSCLC).
+
+Soria-Comes T(1), Palomar-Abril V(2), Martín Ureste M(1), García Sánchez J(1), 
+Marco Buades JE(3), Fernández Llavador MJ(3), López Gabaldón A(3), González 
+Jurado M(3), Maestu Maiques IC(1).
+
+Author information:
+(1)Department of Medical Oncology, Hospital Universitario Doctor Peset, 
+Valencia, Comunitat Valenciana, Spain.
+(2)Department of Medical Oncology, Hospital Virgen de los Lirios, Alicante, 
+Comunitat Valenciana, Spain.
+(3)Department of Hematology, Hospital Universitario Doctor Peset, Valencia, 
+Comunitat Valenciana, Spain.
+
+BACKGROUND: Aging is a risk factor for cancer and cognitive impairment, and both 
+have been related to changes in the immune system (immunosenescence) and chronic 
+inflammation (inflammaging) of elderly individuals. Therefore, it would be 
+interesting to know if there is a connection between immunological variations 
+and cognitive function in oncologic patients, especially in lung cancer, in 
+which, inflammation plays a crucial role in tumor development and progression. 
+Our objective is to assess, in older patients diagnosed with non-small cell lung 
+cancer (NSCLC), differences in parameters of the immune system depending on 
+their cognitive status.
+METHODS: We retrospectively analyzed patients ≥70 years diagnosed with NSCLC 
+with evaluated cognitive function, from January 2017 to April 2019. Lymphocyte 
+count was gathered at baseline and checked for differences in lymphocyte counts 
+between patients with a Pfeiffer result of 0-2 vs. 3-10 mistakes. Multiple 
+regression models were used to assess the impact of clinical parameters on 
+lymphocyte count.
+RESULTS: Seventy patients were analyzed. Sixty had a normal cognitive function, 
+while ten had an impaired cognitive status; these were significantly older. 
+Multivariate analysis showed that patients with cognitive impairment had lower 
+levels of total, T and CD8+ T-lymphocytes (P=0.011, 0.011 and 0.019, 
+respectively). Older age was only correlated to higher level of CD8+ 
+T-lymphocytes (P=0.0390). Odds ratio for the risk of cognitive impairment 
+depending on the level of T-lymphocytes was 0.996 (95% CI: 0.995-0.998), 
+P=0.037.
+CONCLUSIONS: T-lymphocyte count is lower in patients diagnosed with lung cancer 
+and cognitive impairment. These findings suggest that clinical features are 
+closely related to immunological status in older patients with NSCLC. Therefore, 
+age cannot always explain immunosenescence, and geriatric assessment could help.
+
+2020 Translational Cancer Research. All rights reserved.
+
+DOI: 10.21037/tcr-20-1997
+PMCID: PMC8798470
+PMID: 35117294
+
+Conflict of interest statement: Conflicts of Interest: All authors have 
+completed the ICMJE uniform disclosure form (available at 
+http://dx.doi.org/10.21037/tcr-20-1997). The authors have no conflicts of 
+interest to declare.
+
+
+20. Psychooncology. 2017 May;26(5):632-639. doi: 10.1002/pon.4200. Epub 2016 Aug 1.
+
+Predictors of baseline cancer-related cognitive impairment in cancer patients 
+scheduled for a curative treatment.
+
+Lycke M(1), Pottel L(1), Pottel H(2), Ketelaars L(3), Stellamans K(4), Van Eygen 
+K(1)(5), Vergauwe P(6), Werbrouck P(7), Goethals L(4), Schofield P(8), Boterberg 
+T(9), Debruyne PR(1)(8).
+
+Author information:
+(1)Division of Medical Oncology, Cancer Centre, General Hospital Groeninge, 
+Kortrijk, Belgium.
+(2)Department of Public Health and Primary Care @ Kulak, Catholic University 
+Leuven Kulak, Kortrijk, Belgium.
+(3)Department of Neuropsychology, General Hospital Groeninge, Kortrijk, Belgium.
+(4)Division of Radiotherapy, Cancer Centre, General Hospital Groeninge, 
+Kortrijk, Belgium.
+(5)Division of Haematology, Cancer Centre, General Hospital Groeninge, Kortrijk, 
+Belgium.
+(6)Department of Gastro-Enterology, General Hospital Groeninge, Kortrijk, 
+Belgium.
+(7)Department of Urology, General Hospital Groeninge, Kortrijk, Belgium.
+(8)Faculty of Health, Social Care and Education, Anglia Ruskin University, 
+Chelmsford, UK.
+(9)Department of Radiation Oncology, Ghent University Hospital, Ghent, Belgium.
+
+INTRODUCTION: Recent research in the field of cancer-related cognitive 
+impairments (CRCI) has shown CRCI presentation prior to treatment initiation. 
+Some have attributed these problems to worry and fatigue, whereas others have 
+suggested an influence of age, IQ, and other psychosocial and medical factors.
+METHODS: Patients (≥18 years) with a histologically confirmed diagnosis of a 
+solid cancer or hematological malignancy, scheduled for a curative treatment, 
+were evaluated with a baseline neuropsychological assessment including 
+Patient-Reported Outcome Measures (PROMs). PROMs entailed distress, anxiety and 
+depression, fatigue, and cognitive complaints. The neuropsychological assessment 
+comprised several cognitive domains such as premorbid IQ, attention, processing 
+speed, flexibility, verbal and visual episodic memory, and verbal fluency.
+RESULTS: Cross-sectional data of 125 patients were collected. Patients had a 
+mean age of 60.9 years (range: 30.0-85.0) and comprised primarily females 
+(65.6%). Patients presented with cancer of following sites: breast (44.0%), 
+digestive (28.8%), urological (11.2%), gynecologic (8.0%), hematologic 
+malignancy (4.8%), and lung (3.2%). Patients presented with a premorbid IQ of 
+105.3 (range: 79.0-124.0). In 29.6% of patients, a CRCI was detected. Binary 
+logistic regression analyses showed that a lower premorbid IQ (β = -.084, 
+P < .01) and a higher level of fatigue (β = -.054, P < .05) predicted baseline 
+CRCI. Premorbid IQ also predicted performance on individual cognitive domains. 
+Some domains were also influenced by age, gender, having a breast cancer 
+diagnosis, and an active treatment for hypertension.
+CONCLUSION: Premorbid IQ and fatigue are important predictors of baseline CRCI. 
+Therefore, we advise researchers to implement a short IQ test when conducting 
+clinical trials on CRCI.
+
+Copyright © 2016 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/pon.4200
+PMID: 27338029 [Indexed for MEDLINE]

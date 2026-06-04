@@ -1,0 +1,46 @@
+---
+description: Python/Conda 执行约定——先解释器、再 import 探测、最后才 pip install
+globs:
+  - "**/*.py"
+  - "**/*.ipynb"
+  - "0 工作流/scripts/**"
+alwaysApply: false
+---
+
+# Python / Conda 环境约定
+
+与 [[0 工作流/workflows/3.3 Workflow ：Cursor 与 Conda/Python 环境约定（待完善）]] 一致。
+
+## 执行前（必须）
+
+1. 读工作区 `.vscode/settings.json` 的 `python.defaultInterpreterPath`；Remote-SSH 时用**远端**解释器。
+2. 若有 `*-python.txt`（如 `0 工作流/scripts/xhs-python.txt`）或 `paths-home.local.json`，优先采用。
+3. 科研重型任务：若未连 `home-pc`，遵循 `.cursor/rules/remote-compute.mdc`，提示 Remote-SSH。
+
+## Agent 行为
+
+```powershell
+# 用指定解释器探测，勿裸 python
+& "<python.exe>" -c "import package_name; print('ok')"
+```
+
+- **仅当** import 失败且 `requirements-*.txt` / `environment.yml` 中有该依赖时，才 `pip install` 到**当前解释器对应 env**。
+- 禁止向系统 `python`（如 `C:\Python312\`、`WindowsApps\python`）安装科研包。
+- 双机路径查表：`0 工作流/scripts/paths-home.example.json`（conda env、vault、项目 code 根）。
+
+## 环境速查（主力机，2026-05-30）
+
+| 用途 | env |
+|------|-----|
+| 1a-2a TabPFN / 海马疗效预测 | `TabPFN` |
+| RTNF / openNFT | `openNFT` |
+| BIDS 处理 | `bids` |
+| vMRE | `vMRE` |
+| vault 剪藏（3.2，主力机） | 待建 `xhs_clip` 或 `vault_tools` |
+
+Conda 根：`D:\ProgramData\Anaconda3`
+
+## 禁止
+
+- 未读解释器路径就 `pip install`
+- 在笔记本本地 env 安装 `nilearn` / 影像重型栈（应 Remote 到主力机）

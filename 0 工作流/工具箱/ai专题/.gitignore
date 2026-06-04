@@ -1,0 +1,4 @@
+# 临时 PDF 专题包，不纳入版本库
+*
+!.gitignore
+!README.md

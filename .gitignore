@@ -1,0 +1,78 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.bak
+*.log
+*.pyc
+__pycache__/
+**/__pycache__/
+~$*
+
+# Obsidian local workspace state and sync conflicts
+.obsidian/workspace*.json
+.obsidian/*冲突*.json
+.obsidian/plugins/
+
+# Codex / Cursor / AI local state
+.codex/
+.agents/
+.cursor/*
+!.cursor/rules/
+!.cursor/rules/**
+copilot/copilot-conversations/
+copilot/memory/
+
+# Capture queues and transient private drops
+0 工作流/_email_drop/
+0 工作流/_assistant_drop/_done/
+0 工作流/_assistant_drop/_failed/
+Clippings/_xhs_queue/
+**/_xhs_queue/
+
+# Large or transitional archives that should not be default-indexed/versioned
+7 可复用知识库/印象笔记存档/
+**/印象笔记归档/attachments/
+1 主线项目/前期产出/1a-2a 海马宏观微观分割与抗抑郁疗效预测-梦月paper/_报账-202605-影像技术分会青年学术会议/
+
+# Generated public share pack output
+6 其他活动/6.3 工作流小红书分享/github-share/obsidian-cursor-workflow-starter/
+
+# Local secrets / machine-specific overrides
+*.secret.*
+*.local.*
+!*.local.*.example
+*.env
+*.env.*
+!*.env.example
+*-python.txt
+!*-python.txt.example
+paths-home.json
+!paths-home.example.json
+
+# Runtime caches / generated scratch files
+0 工作流/scripts/_debug_*
+0 工作流/scripts/_xhs_skill_temp.md
+0 工作流/scripts/retranscribe.log
+0 工作流/scripts/triage_evernote_export.py
+
+# Heavy manuscript/process versions stay in external working directories.
+# Keep only current vault working notes and curated small assets in Git.
+**/finalManu/
+**/versions/
+**/_archive/
+**/ARCHIVE-*
+
+# Binary deliverables (canonical Word/PDF on Nutstore or Zotero; vault keeps md/digest)
+**/*.pdf
+**/*.docx
+**/*.pptx
+
+# Ephemeral pasted images at vault root
+/Pasted image *.png
+
+# Heavy clipped / share-pack assets (markdown stays tracked)
+Clippings/**/_assets/
+6 其他活动/6.3 工作流小红书分享/_assets/resources/

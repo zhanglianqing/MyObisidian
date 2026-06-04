@@ -1,0 +1,10 @@
+{
+  "provider": "gemini",
+  "api_key": "AIza... 从 https://aistudio.google.com/apikey 获取",
+  "model": "gemini-2.0-flash",
+  "vision_model": "gemini-2.0-flash",
+  "max_images": 12,
+  "timeout_sec": 180,
+  "retries": 3,
+  "_comment": "也可用 OpenAI 兼容：provider=openai_compat, api_base=https://generativelanguage.googleapis.com/v1beta/openai"
+}

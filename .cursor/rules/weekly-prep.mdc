@@ -1,0 +1,78 @@
+---
+description: 「小助理整理下周工作」周度仪式：先拉邮件再邮件整理、小助理收件箱、3.4 新周清单
+globs:
+  - 0 工作流/本周工作台.md
+  - 0 工作流/同期项目-下一节点.md
+  - 0 工作流/日程/科研推进/**/*
+  - 0 工作流/小助理收件箱.md
+  - 0 工作流/邮件待整理队列.md
+  - 0 工作流/_email_drop/**/*
+  - 0 工作流/_assistant_drop/**/*
+  - 10 杂志审稿/**/*
+  - 11 投稿征召/**/*
+  - 12 基金申报/**/*
+alwaysApply: false
+---
+
+# 周度整理 · 小助理 + 邮件 + 新周（3.4 + 3.6 + 3.7）
+
+主文档：[[0 工作流/workflows/3.4 Workflow ：长周期项目与每日规划（试点）]] · [[0 工作流/workflows/3.6 Workflow ：小助理收件箱（捕获与整理）]] · [[0 工作流/workflows/3.7 Workflow ：QQ 邮件筛选入库]]
+
+## 触发
+
+| 触发 | 模式 |
+|------|------|
+| 含 **小助理** 且含 **整理**，并含 **下周** / **新周** / **本周工作台** / **周规划** / **周度** | **周度整理** |
+| 仅 `小助理整理`（无「下周/新周/…」） | 走 `assistant-inbox.mdc` **整理**，**不**跑邮件拉取 |
+| 仅 `邮件整理` | 走 `email-inbox.mdc`，**不**跑 3.4 新周 |
+
+推荐口令（可复制）：
+
+```text
+小助理整理下周工作
+```
+
+## Step 0 · 拉取（自动，无需确认）
+
+```powershell
+cd "c:\Users\41516\Nutstore\1\MyObisidian\0 工作流\scripts"
+powershell -NoProfile -ExecutionPolicy Bypass -File .\Invoke-WeeklyPrep.ps1
+```
+
+脚本依次：`Invoke-QQEmailFetch`（默认未读、30 封、14 天窗）→ `Merge-EmailDrop` → `Merge-AssistantDrop`。
+
+回复须含一行拉取结果（fetched/skipped、队列索引条数、小助理合并条数）。凭证缺失时说明 `%USERPROFILE%\.qq_mail_imap.env`，**不**中断后续 Step（邮件队列用已有 drop）。
+
+## Step 1 · 邮件整理
+
+遵循 `.cursor/rules/email-inbox.mdc`（术语、Decline/Agree 链接、精影讲堂自动 skip、V2NET 待办）。
+
+- 先读 [[0 工作流/邮件待整理队列]] 与 `_email_drop/` 待处理 `.md`
+- **订阅/信用卡/营销**：合并为 1～2 张批量 skip 卡片，用户一句确认后删 drop
+- **审稿邀请**（未决）：每张卡含 **Decline** / **Agree** 原文链接
+- **已落地 active**（如 IMAG 已接受）：一句带过，不重复建卡
+- 未经用户确认：不写入 `10/` `11/` `12/`、不改 Track / [[同期项目-下一节点]]
+
+## Step 2 · 小助理收件箱
+
+- 读 [[0 工作流/小助理收件箱]] 全部 `- [ ]`
+- 列出清单，与用户确认迁往 track / [[日常随想]] / 下一节点 / 勾选完成
+- 未经确认不批量清空
+
+## Step 3 · 3.4 新周清单
+
+按 [[0 工作流/workflows/3.4 Workflow ：长周期项目与每日规划（试点）#定稿摘要（调用入口）]] **新周清单**顺序：
+
+1. `本周工作台`：`week_of`、`updated`、§二 Tasks 日期窗
+2. [[同期项目-下一节点]]：勾选完成 → 每线新一条节点
+3. §一 上方 Top 3～5；`weekly_workbench_from_ics.py --week YYYY-MM-DD --markdown`
+4. 手填不可用补充与 **科研** 列
+5. [[本周科研推进]]：仅为有科研空档的日写 `⏳`
+
+规则细节：`.cursor/rules/weekly-workbench-shifts.mdc`。
+
+## 禁止
+
+- Step 0 完成前不要改 §一 科研排班（除非用户明确「跳过邮件只排班」）
+- 不要把周度整理当成捕获模式（不展开执行碎片待办）
+- 不要未经确认批量新建 active 或改工作台

@@ -1,0 +1,115 @@
+---
+description: 用户说「邮件」时捕获到 _email_drop；「邮件整理」时抽取截止与要求并待确认落地
+globs:
+  - 0 工作流/_email_drop/**/*
+  - 0 工作流/邮件待整理队列.md
+  - 10 杂志审稿/**/*
+  - 11 投稿征召/**/*
+  - 12 基金申报/**/*
+alwaysApply: false
+---
+
+# QQ 邮件 · 捕获与整理
+
+主文档：[[0 工作流/workflows/3.7 Workflow ：QQ 邮件筛选入库]]
+
+## 触发
+
+| 触发 | 模式 |
+|------|------|
+| 消息以 **邮件** 开头，或含 **邮件捕获**（且不含「整理」） | **捕获** |
+| 消息含 **邮件整理** | **整理** |
+
+## 捕获模式
+
+### 必须
+
+1. 解析用户输入中的 **发件人**、**主题**、**正文**（用户未分时：主题取首行，正文其余；`received_at` 默认当前北京时间 `+08:00`）
+2. 在 `0 工作流/_email_drop/` 新建文件：`yyyyMMdd-HHmmss-主题简写.md`（主题简写 ≤30 字，去掉非法文件名字符）
+3. frontmatter 至少：
+
+```yaml
+---
+from: "..."
+subject: "..."
+received_at: 2026-05-25T14:30+08:00
+source: qq-paste
+---
+```
+
+4. 正文写入 `---` 之后（保留用户粘贴原文；若有附件说明写在 frontmatter `attachments:` 或正文首行）
+5. 可选：运行 `Merge-EmailDrop.ps1` 刷新 [[0 工作流/邮件待整理队列]]
+6. 回复：**仅**「已入队 _email_drop/\<文件名\>，未解析」
+
+### 禁止
+
+- 不解析截止日、不输出整理卡片
+- 不新建 `10/` `11/` `12/` active 文件夹
+- 不改 `00_*Track`、[[同期项目-下一节点]]、[[本周工作台]]
+- 不把邮件写入 [[0 工作流/小助理收件箱]]（除非用户明确说当通知碎片）
+
+## 整理模式
+
+### 必须
+
+1. 若用户未禁止，先运行：
+
+```powershell
+cd "c:\Users\41516\Nutstore\1\MyObisidian\0 工作流\scripts"
+.\Merge-EmailDrop.ps1
+```
+
+2. 读取 `0 工作流/_email_drop/` 根目录所有 `.md`（排除 README、`*template*`、`_pilot/` 除非用户要求包含 pilot）
+3. 对每封邮件输出一张 **摘要卡片**（Markdown），字段：
+
+| 字段 | 说明 |
+|------|------|
+| **分类** | `peer-review` → `10/` · `submission-call` → `11/` · `fund-application` → `12/` · `notice` → 小助理通知区 · `skip` |
+| **action** | `required` / `confirm` / `skip`（对照 3.7 筛选 rubric） |
+| **关键时间节点** | 所有日期；硬截止标 `deadline`；含时分则写北京 `+08:00` |
+| **要求清单** | 表格：递交方式、格式、命名、联系人、附件 |
+| **操作链接** | **审稿邀请**（EM/Wiley 等）：卡片须含邮件内 **Agree** / **Decline** 原文链接（便于一键拒/接）。**V2NET 等账单**：`action: required`，附**付款/续费链接**与到期日 |
+| **建议路径** | 新建 `active/YYYY-MM-DD 简称/` 或更新已有（如 `IMAG-26-0219`） |
+| **本周关系** | 是否建议写入 [[同期项目-下一节点]] / [[本周工作台]] busy 备忘 |
+
+4. 卡片末尾写 **建议操作**（新建笔记 / 更新已有 / 仅通知 / 跳过）
+5. 询问用户确认后再执行写入
+
+### 术语与自动 skip
+
+- **审稿邀请**（`peer-review`）：期刊邀你**审别人的稿**（Editorial Manager / Wiley 等）。勿称「邀稿」——「邀稿/征稿」保留给 `submission-call`（`11/`）。
+- **精影讲堂** `hmrrc@vip.163.com` 的**预告 / 总结**：不出卡片，整理时直接标 `skip`。
+- **V2NET** `Invoice Payment Reminder`：`action: required`；写入 [[0 工作流/小助理收件箱]] **待办**（附付款链接）；到账即付。
+
+### 确认后写入
+
+| 分类 | 动作 |
+|------|------|
+| `peer-review` | 在 `10 杂志审稿/active/` 建或更新笔记；更新 [[00_ReviewTrack]]（用户同意后） |
+| `submission-call` | 在 `11 投稿征召/active/` 建或更新；若有 `00_*Track` 则同步 |
+| `fund-application` | 在 `12 基金申报/active/` 建或更新；更新 [[00_FundTrack]]（用户同意后） |
+| `notice` | 追加一行到 [[0 工作流/小助理收件箱]] 通知区 |
+| `skip` | 不建 active；**删除** drop 文件（推荐）或暂放 `_done/` 后定期清理 |
+| 已写入 10/11/12 | **删除** drop（正文已在项目笔记，不必留 `_done/`） |
+
+落地格式对齐现有 active 笔记（见 3.7 §五）。`source: email` 写入 frontmatter。
+
+6. 完成后**删除**已处理 drop（默认）；若用户明确要求暂存再移 `_done/`。再跑 `Merge-EmailDrop.ps1`
+
+### 禁止
+
+- 未经确认就批量新建 active、改 Track、改下一节点
+- 整理模式下不擅自执行无关科研/代码任务
+
+## 捕获示例
+
+用户：
+
+```text
+邮件：
+发件人：editorial@imag.com
+主题：Invitation to review IMAG-26-0219
+Dear Dr. Zhang, please submit your review by June 13, 2026.
+```
+
+→ 写入 `_email_drop/`，回复已入队即可。

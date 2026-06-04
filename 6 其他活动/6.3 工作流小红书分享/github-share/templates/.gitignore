@@ -1,0 +1,12 @@
+# drop 队列运行时文件
+0 工作流/_assistant_drop/_done/
+0 工作流/_assistant_drop/_failed/
+0 工作流/_assistant_drop/*.md
+!0 工作流/_assistant_drop/README.md
+
+# Obsidian（若整库当 repo）
+.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db

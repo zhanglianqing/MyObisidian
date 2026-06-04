@@ -1,0 +1,12 @@
+# 笔记本 ~/.ssh/config 示例（复制到 C:\Users\<你>\.ssh\config，或通过 Setup-LaptopSshClient.ps1 自动生成）
+#
+# 花生壳控制台 → 内网穿透 → TCP 映射 → 记录外网域名与外网端口
+
+Host home-pc
+  HostName REPLACE_WITH_ORAY_HOSTNAME
+  Port REPLACE_WITH_ORAY_PORT
+  User REPLACE_WITH_HOME_WINDOWS_USER
+  IdentityFile ~/.ssh/id_ed25519_home
+  ServerAliveInterval 30
+  ServerAliveCountMax 6
+  TCPKeepAlive yes

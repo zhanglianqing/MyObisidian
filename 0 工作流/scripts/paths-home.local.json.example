@@ -1,0 +1,6 @@
+{
+  "_comment": "本机覆盖（勿提交 Git）。从 paths-home.example.json 复制后只改本机字段。",
+  "machine": "laptop",
+  "vault": "C:\\Users\\41516\\Nutstore\\1\\MyObisidian",
+  "ssh_host_alias": "home-pc"
+}

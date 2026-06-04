@@ -1,0 +1,56 @@
+{
+  "outDirName": "obsidian-cursor-workflow-starter",
+  "version": "2026-06-04",
+  "publishedEpisodes": [2],
+  "copies": [
+    {
+      "episode": 2,
+      "src": "AGENTS.md",
+      "dest": "shared/AGENTS.md",
+      "sanitize": true
+    },
+    {
+      "episode": 2,
+      "src": "0 工作流/workflows/3.0 Workflow ：AI 原生科研工作流架构.md",
+      "dest": "notes/02-researchtrack-workbench/reference/3.0 Workflow ：AI 原生科研工作流架构.md",
+      "sanitize": true
+    }
+  ],
+  "templates": [
+    {
+      "episode": 2,
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/README.github.md",
+      "dest": "README.md"
+    },
+    {
+      "episode": 2,
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/SETUP.md",
+      "dest": "SETUP.md"
+    },
+    {
+      "episode": 2,
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/LICENSE",
+      "dest": "LICENSE"
+    },
+    {
+      "episode": 2,
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/02-researchtrack-workbench.README.md",
+      "dest": "notes/02-researchtrack-workbench/README.md"
+    },
+    {
+      "episode": 2,
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/02-researchtrack-workbench.prompt.md",
+      "dest": "notes/02-researchtrack-workbench/prompts/迁移口令.md"
+    },
+    {
+      "episode": 2,
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/00_ResearchTrack.example.md",
+      "dest": "notes/02-researchtrack-workbench/examples/00_ResearchTrack.example.md"
+    },
+    {
+      "episode": 2,
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/.gitignore",
+      "dest": ".gitignore"
+    }
+  ]
+}

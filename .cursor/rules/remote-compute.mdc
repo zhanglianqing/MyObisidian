@@ -1,0 +1,38 @@
+---
+description: 科研计算与重型 Python 默认在主力机 Remote-SSH 环境执行
+globs:
+  - "**/*.py"
+  - "**/*.ipynb"
+alwaysApply: false
+---
+
+# 远程计算（Cursor Remote-SSH → 主力机）
+
+与 [[0 工作流/workflows/3.3 Workflow ：Cursor 与 Conda/Python 环境约定（待完善）]] §七 一致。
+
+## 何时适用
+
+- 神经影像、SPM/FSL、nilearn、opennft 等**科研重型**依赖
+- 读写主力机 HDD 上的 **Data**（NIfTI/DICOM 等）
+- 用户提到「主力机」「家里电脑」「Remote-SSH」「home-pc」
+
+## Agent 行为
+
+1. **确认窗口**：若当前非 Remote-SSH 连接主力机，提示用户 `Remote-SSH: Connect to Host → home-pc`，或说明命令需在主力机执行。
+2. **解释器**：使用**远端** `.vscode/settings.json` / **Python: Select Interpreter** 选中的 Conda env；禁止向笔记本默认 `python` 执行 `pip install` 科研包。
+3. **路径**：读 `0 工作流/scripts/paths-home.example.json`（双机 vault、HDD data、项目 code 根）；Data 用主力机绝对路径；Results 写到 vault 内 `1 主线项目/.../results/` 或项目约定目录，**勿**把原始影像写入坚果云。
+4. **终端**：在 Remote 窗口集成终端运行；长任务用 `Start-RemoteBackgroundJob.ps1`，避免 SSH 断开中断。
+5. **Code 同步**：改 `.py` 后提醒 Git commit；笔记本 Obsidian 看 Results，不依赖坚果云同步代码目录。
+
+## 连接与脚本
+
+- SSH 配置：`~/.ssh/config` 中 `Host home-pc`（见 `0 工作流/scripts/README-remote-ssh.md`）
+- 路径契约：`0 工作流/scripts/paths-home.example.json`
+- 验证：`.\Test-HomeSshConnection.ps1`
+- 笔记本本地 vault 脚本（3.2 剪藏等轻量任务）仍用 `Resolve-XhsPython.ps1`，与 §七 科研远程分工并存。
+
+## 禁止
+
+- 在**未 Remote** 的笔记本终端对 HDD 影像路径跑重型 pipeline
+- 在笔记本新建 `nilearn` / `opennft` 等镜像 conda 环境
+- 假设笔记本与主力机 conda 路径相同
