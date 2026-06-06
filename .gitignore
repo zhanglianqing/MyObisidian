@@ -25,11 +25,12 @@ __pycache__/
 copilot/copilot-conversations/
 copilot/memory/
 
-# Capture queues and transient private drops
+# Capture queues and transient private drops (Nutstore only; not Git)
 0 工作流/_email_drop/
+0 工作流/邮件待整理队列.md
 0 工作流/_assistant_drop/_done/
 0 工作流/_assistant_drop/_failed/
-Clippings/_xhs_queue/
+Clippings/
 **/_xhs_queue/
 
 # Large or transitional archives that should not be default-indexed/versioned
@@ -65,14 +66,8 @@ paths-home.json
 **/_archive/
 **/ARCHIVE-*
 
-# Binary deliverables (canonical Word/PDF on Nutstore or Zotero; vault keeps md/digest)
-**/*.pdf
-**/*.docx
-**/*.pptx
-
 # Ephemeral pasted images at vault root
 /Pasted image *.png
 
-# Heavy clipped / share-pack assets (markdown stays tracked)
-Clippings/**/_assets/
+# Xiaohongshu share-pack icon resources (not project deliverables)
 6 其他活动/6.3 工作流小红书分享/_assets/resources/
