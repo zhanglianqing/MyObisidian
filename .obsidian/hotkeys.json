@@ -7,5 +7,14 @@
       ],
       "key": "I"
     }
+  ],
+  "copilot:add-selection-to-chat-context": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }

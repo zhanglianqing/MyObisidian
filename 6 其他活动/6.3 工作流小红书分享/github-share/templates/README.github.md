@@ -7,6 +7,8 @@
 | 篇 | 文件夹 | 主题 |
 |----|--------|------|
 | 2 | [notes/02-researchtrack-workbench/](notes/02-researchtrack-workbench/) | ResearchTrack + 工作台汇总 |
+| 3 | [notes/03-email-peer-review/](notes/03-email-peer-review/) | 邮件入库 + 杂志审稿 |
+| 3 | [notes/03-assistant-capture/](notes/03-assistant-capture/) | 小助理捕获（只记不执行） |
 
 ## 怎么用
 

@@ -18,6 +18,7 @@
 | `declaration_COI.docx` | 利益冲突声明（BS） |
 | `manuscript_digest.md` | **瘦身版** md（日常 @） |
 | `manuscript_digest_full.md` | 全文备份（Pandoc 直出） |
+| `media/image1–4.png` | 主文 Fig 1–4（Pandoc 自 docx 提取；digest 内相对路径 `media/…`） |
 
 > **主文图**：BS 包无独立 figure PDF；图版在 `manuscript_RTNF.pdf` 内。若需单幅 JPG → 见源路径 `finalManu\sub-PM\Fig1–4.jpg`。
 

@@ -68,14 +68,10 @@ if ($Relocate) {
 }
 
 if ($Bootstrap) {
-    if (-not (Test-IsGitDirPointer $gitPath)) {
-        if (-not (Test-Path -LiteralPath $GitStore)) {
-            throw 'Need synced .git pointer in vault, or run -Relocate on first machine.'
-        }
-        $pointer = 'gitdir: ' + ($GitStore -replace '\\', '/')
-        Set-Content -LiteralPath $gitPath -Value $pointer -Encoding ascii -NoNewline
-        Write-Host '[ok] Wrote pointer file.'
-    }
+    # Always rewrite pointer to THIS machine's GitStore (Nutstore may sync another user's path).
+    $pointer = 'gitdir: ' + ($GitStore -replace '\\', '/')
+    Set-Content -LiteralPath $gitPath -Value $pointer -Encoding ascii -NoNewline
+    Write-Host "[ok] Pointer -> $pointer"
 
     if (-not (Test-Path -LiteralPath $GitStore)) {
         Write-Host 'Initializing GitStore from origin...'

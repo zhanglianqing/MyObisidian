@@ -1,0 +1,117 @@
+{
+  "note": "第 3 篇：邮件入库 + 杂志审稿。已并入 export-manifest.json 的 publishedEpisodes: [2, 3]。",
+  "episode": 3,
+  "copies": [
+    {
+      "src": ".cursor/rules/email-inbox.mdc",
+      "dest": "notes/03-email-peer-review/.cursor/rules/email-inbox.mdc",
+      "sanitize": true
+    },
+    {
+      "src": ".cursor/hooks/merge-email-drop.ps1",
+      "dest": "notes/03-email-peer-review/.cursor/hooks/merge-email-drop.ps1",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/workflows/3.7 Workflow ：QQ 邮件筛选入库.md",
+      "dest": "notes/03-email-peer-review/reference/3.7 Workflow ：QQ 邮件筛选入库.md",
+      "sanitize": true
+    },
+    {
+      "src": "0 工作流/_email_drop/_email-drop.template.md",
+      "dest": "notes/03-email-peer-review/0 工作流/_email_drop/_email-drop.template.md",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/_email_drop/README.md",
+      "dest": "notes/03-email-peer-review/0 工作流/_email_drop/README.md",
+      "sanitize": true
+    },
+    {
+      "src": "0 工作流/scripts/README-email-inbox.md",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/README-email-inbox.md",
+      "sanitize": true
+    },
+    {
+      "src": "0 工作流/scripts/merge_email_drop.py",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/merge_email_drop.py",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/scripts/Merge-EmailDrop.ps1",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/Merge-EmailDrop.ps1",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/scripts/fetch_qq_email.py",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/fetch_qq_email.py",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/scripts/Fetch-QQEmail.ps1",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/Fetch-QQEmail.ps1",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/scripts/Invoke-QQEmailFetch.ps1",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/Invoke-QQEmailFetch.ps1",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/scripts/Setup-QQMailCredentials.ps1",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/Setup-QQMailCredentials.ps1",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/scripts/Register-EmailDrops.ps1",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/Register-EmailDrops.ps1",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/scripts/register_email_drops.py",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/register_email_drops.py",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/scripts/Purge-EmailDropDone.ps1",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/Purge-EmailDropDone.ps1",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/scripts/purge_email_done.py",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/purge_email_done.py",
+      "sanitize": false
+    },
+    {
+      "src": "0 工作流/scripts/.qq_mail_imap.env.example",
+      "dest": "notes/03-email-peer-review/0 工作流/scripts/.qq_mail_imap.env.example",
+      "sanitize": false
+    }
+  ],
+  "templates": [
+    {
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/03-email-peer-review.README.md",
+      "dest": "notes/03-email-peer-review/README.md"
+    },
+    {
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/03-email-peer-review.prompt.md",
+      "dest": "notes/03-email-peer-review/prompts/迁移口令.md"
+    },
+    {
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/examples/email-card.example.md",
+      "dest": "notes/03-email-peer-review/examples/email-card.example.md"
+    },
+    {
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/examples/peer-review-README.example.md",
+      "dest": "notes/03-email-peer-review/examples/peer-review-README.example.md"
+    },
+    {
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/examples/peer-review-README.example.md",
+      "dest": "notes/03-email-peer-review/10 杂志审稿/README.example.md"
+    },
+    {
+      "src": "6 其他活动/6.3 工作流小红书分享/github-share/templates/examples/peer-review-manuscript.example.md",
+      "dest": "notes/03-email-peer-review/examples/peer-review-manuscript.example.md"
+    }
+  ]
+}

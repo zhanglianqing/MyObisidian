@@ -1,8 +1,18 @@
-# 后续篇 · 小助理捕获模块
+# 第 3 篇 · 小助理捕获模块
 
-这一模块用于后续“小助理 / 碎片捕获”相关笔记。
+对应小红书第 3 篇：`小助理：xxxx` 只捕获、不擅自执行；整理时迁往 track / 下一节点 / 工作台。
 
-它不是第 2 篇的主系统，而是项目 workflow 跑起来之后的 add-on：
+与 [03-email-peer-review](../03-email-peer-review/) 并列，可单独或一起迁移：
+
+```text
+临时碎片
+  ↓
+小助理收件箱
+  ↓
+整理确认
+  ↓
+项目 track / 下一节点 / 工作台
+```
 
 ```text
 临时碎片
@@ -24,12 +34,14 @@
 
 | 路径 | 用途 |
 |------|------|
-| `AGENTS.md` | 捕获与整理边界参考 |
+| `prompts/迁移口令.md` | 复制给 Cursor / Codex 的落地 prompt |
+| `shared/AGENTS.md`（仓库根） | 捕获与整理边界参考 |
 | `.cursor/rules/assistant-inbox.mdc` | 小助理触发词与禁止项 |
 | `.cursor/hooks.json` + `.cursor/hooks/` | 可选：打开 Cursor 时合并手机 drop |
 | `0 工作流/小助理收件箱.md` | 收件箱模板 |
-| `0 工作流/_assistant_drop/` | 手机 drop 目录 |
-| `0 工作流/scripts/` | 合并脚本和说明 |
+| `0 工作流/_assistant_drop/` | 手机 drop 目录（含 `_done/`、`_failed/`） |
+| `0 工作流/scripts/` | `Merge-AssistantDrop.ps1` 与说明 |
+| `reference/3.6 Workflow …` | 完整 workflow 定稿 |
 
 ## 验证口令
 

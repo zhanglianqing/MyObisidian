@@ -133,7 +133,7 @@ $outFull = Join-Path $OutDir 'manuscript_digest_full.md'
 $outSlim = Join-Path $OutDir 'manuscript_digest.md'
 
 try {
-    & pandoc $Docx -f docx -t gfm --wrap=none -o $tmp
+    & pandoc $Docx -f docx -t gfm --wrap=none --extract-media=$OutDir -o $tmp
     if ($LASTEXITCODE -ne 0) { throw "pandoc exited with code $LASTEXITCODE" }
 
     $body = Get-Content -LiteralPath $tmp -Raw -Encoding UTF8

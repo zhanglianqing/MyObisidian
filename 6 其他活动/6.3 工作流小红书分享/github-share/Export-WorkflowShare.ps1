@@ -134,5 +134,19 @@ foreach ($item in $manifest.templates) {
     $templated++
 }
 
-Write-Output "Export-WorkflowShare: ok -> $targetRoot (published=[$($published -join ',')] copied=$copied templates=$templated skipped=$skipped)"
+$mkdirs = 0
+if ($manifest.PSObject.Properties['mkdirs']) {
+    foreach ($item in $manifest.mkdirs) {
+        if (-not (Test-ShouldExport $item)) {
+            continue
+        }
+        $dirPath = Join-Path $targetRoot ($item.path -replace '/', [IO.Path]::DirectorySeparatorChar)
+        if (-not (Test-Path -LiteralPath $dirPath)) {
+            New-Item -ItemType Directory -Path $dirPath -Force | Out-Null
+            $mkdirs++
+        }
+    }
+}
+
+Write-Output "Export-WorkflowShare: ok -> $targetRoot (published=[$($published -join ',')] copied=$copied templates=$templated mkdirs=$mkdirs skipped=$skipped)"
 exit 0

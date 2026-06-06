@@ -1,7 +1,7 @@
 ---
 type: share-tooling
 project: "[[00 工作流小红书分享 setup]]"
-updated: 2026-06-04
+updated: 2026-06-05
 ---
 
 # GitHub 分享包 · 维护说明
@@ -14,7 +14,8 @@ updated: 2026-06-04
 | 规则 | 说明 |
 |------|------|
 | 一篇一模块 | 第 2 篇 → `notes/02-researchtrack-workbench/` |
-| 未发不上 Git | 小助理捕获等草稿在 `export-manifest.pending.ep03-assistant-capture.json` |
+| 审稿脱敏 | 稿号、标题、作者、摘要/正文不进小红书/Git 配图；示例用 `JOURNAL-26-xxxx`，见 [[工作流分享-写作与脱敏规范#杂志审稿（正文 + 截图）]] |
+| 未发不上 Git | 已全部并入 manifest 的篇目见 `publishedEpisodes` |
 | 发布后再 push | 成稿发布 → 把 pending 并入 manifest → 导出 → commit → push |
 
 ## 一键导出（仅已发布篇目）
